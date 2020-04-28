@@ -4,4 +4,4 @@
 
 Click here to see the syllabus
 
-For more information about this course, please contact Dr. [Aaron Newman](mailto:Aaron.Newman@dal.ca)
+For more information about this course, please contact Dr. [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC_3505)
