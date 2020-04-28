@@ -5,12 +5,13 @@
 ## Neural Data Science
 *Cross-Listed as PSYO 3505*
 ### Summer 2020, version 0.5, 2020-04-27
+Course will run June 4 – August 28, 2020
 __DRAFT: subject to change prior to start of the course__
+
 
 #### Instructor
 Dr. Aaron Newman
-Office: LSC 3325
-Phone/text: 902-488-1973
+
 Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
 #### Teaching Assistants
