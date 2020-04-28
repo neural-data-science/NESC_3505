@@ -1,4 +1,4 @@
-<img src="App Icon - 180x180.png" width=100/>
+<img src="AppIcon_180x180.png" width=100/>
 
 ## Syllabus
 
