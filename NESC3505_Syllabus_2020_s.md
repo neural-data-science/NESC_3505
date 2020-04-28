@@ -6,6 +6,7 @@
 *Cross-Listed as PSYO 3505*
 ### Summer 2020, version 0.5, 2020-04-27
 Course will run June 4 – August 28, 2020
+
 __DRAFT: subject to change prior to start of the course__
 
 
