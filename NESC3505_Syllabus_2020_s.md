@@ -187,7 +187,7 @@ International Centre: [https://www.dal.ca/campus\_life/international-centre/curr
 ### Academic supports
 Library: [https://libraries.dal.ca](https://libraries.dal.ca)  
 
-Writing Centre: [https://www.dal.ca/campus\_life/academic-support/writing-and-study-skills.html](v)
+Writing Centre: [https://www.dal.ca/campus\_life/academic-support/writing-and-study-skills.html](https://www.dal.ca/campus\_life/academic-support/writing-and-study-skills.html)
 
 Studying for Success: [https://www.dal.ca/campus\_life/academic-support/study-skills-and-tutoring.html](https://www.dal.ca/campus\_life/academic-support/study-skills-and-tutoring.html)
 
