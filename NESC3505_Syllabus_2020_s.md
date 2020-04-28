@@ -113,29 +113,29 @@ The Dalhousie University grading scale is below. Grades will be rounded up to th
 # Schedule
 | Week | Class | Topic | Evaluation |
 | ---- | ----- | ----- | ---------- |
-|    1  |       1	| Introduction to the Shell & JupyterLab | 	
+|    1  |       1	| Introduction to the Shell & JupyterLab | 	|
 |       |   	2	| Introduction to Git	| Assignment 1 due 24 h after class |
-|    2  |   	3	| Python 1: Introduction | 	
+|    2  |   	3	| Python 1: Introduction | 	|
 |       |   	4   | Python 2: Lists & Dictionaries	| Assignment 2 due 24 h after class |
-|    3  |   	5	| Python 3: NumPy	|
+|    3  |   	5	| Python 3: NumPy	|  |
 |       |   	6	| Python 4: Logic, Control Flow, & Filtering	| Project 1 due 72 h after class |
-|    4  |   	7	| Pandas 1: Introduction to DataFrames	|
+|    4  |   	7	| Pandas 1: Introduction to DataFrames	| |
 |       |   	8	| Pandas 2: Manipulating DataFrames	| Assignment 3 due 24 h after class |
-|    5  |   	9	| Pandas 3: Merging DataFrames	|
+|    5  |   	9	| Pandas 3: Merging DataFrames	| |
 |       |    	10	| Pandas 4: DataFrames in Practice	| Assignment 4 due 24 h after class |
-|    6  |   	11	| Data Visualization 1: Matplotlib & Seaborn	|
+|    6  |   	11	| Data Visualization 1: Matplotlib & Seaborn	| |
 |       |   	12	| Data Visualization 2: Exploratory Data Analysis	| Project 2 due 72 h after class |
-|    7  |   	13	| Basic Statistics in Python	|
+|    7  |   	13	| Basic Statistics in Python	| |
 |       |   	14	| Generalized Linear Modelling	| Assignment 5 due 24 h after class |
-|    8  |   	15	| Point Processes: Spiking Neurons	|
+|    8  |   	15	| Point Processes: Spiking Neurons	| |
 |       |   	16	| Analyzing Spike Trains	| Assignment 6 due 24 h after class |
-|    9  |   	17	| Fourier Transforms & the Frequency Domain	|
+|    9  |   	17	| Fourier Transforms & the Frequency Domain	| |
 |       |   	18	| EEG	| Project 3 due 72 h after class |
-|    10 |   	19	| Structural MRI & Connectomics	|
+|    10 |   	19	| Structural MRI & Connectomics	| |
 |       |   	20	| Functional MRI	| Assignment 7 due 24 h after class |
-|    11 |   	21	| Introduction to Machine Learning	|
+|    11 |   	21	| Introduction to Machine Learning	| |
 |       |   	22	| Machine Learning Workflows	| Assignment 8 due 24 h after class |
-|    12 |       23	| Machine Learning in EEG: Brain-Computer Interfaces | 	
+|    12 |       23	| Machine Learning in EEG: Brain-Computer Interfaces | 	 |
 |       |       24	| Machine Learning in MRI: Representational Similarity Analysis	| Project 4 due 72 h after class |
 
 # Policies
