@@ -112,7 +112,7 @@ The Dalhousie University grading scale is below. Grades will be rounded up to th
 
 # Schedule
 | Week | Class | Topic | Evaluation |
-| ---- | ----- | ----- | ---------- |
+| --- | --- | --- | --- |
 |    1  |       1	| Introduction to the Shell & JupyterLab | 	|
 |       |   	2	| Introduction to Git	| Assignment 1 due 24 h after class |
 |    2  |   	3	| Python 1: Introduction | 	|
