@@ -1,5 +1,3 @@
-<img src="AppIcon_180x180.png" width=100/>
-
 ## Syllabus
 
 # NESC 3505
@@ -10,10 +8,10 @@
 __DRAFT: subject to change prior to start of the course__
 
 #### Instructor
-Dr. Aaron Newman\
-Office: LSC 3325\
-Phone/text: 902-488-1973\
-Email: Aaron.Newman@dal.ca
+Dr. Aaron Newman
+Office: LSC 3325
+Phone/text: 902-488-1973
+Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
 #### Teaching Assistants
 TBD
@@ -112,6 +110,8 @@ The Dalhousie University grading scale is below. Grades will be rounded up to th
 
 # Schedule
 
+(Very much subject to change prior to start of term!)
+
 | Week | Class | Topic | Evaluation |
 | --- | --- | --- | --- |
 | 1  | 1 | Introduction to the Shell & JupyterLab |     |
@@ -149,63 +149,65 @@ Attendance scheduled class meetings is optional. However, due to the flipped cla
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only your freedom to think as you please, but others’ freedom do express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
 
 ## Academic Integrity
-At Dalhousie University, we are guided in all of our work by the values of academic integrity: honesty, trust, fairness, responsibility and respect (The Center for Academic Integrity, Duke University, 1999). As a student, you are required to demonstrate these values in all of the work you do. The University provides policies and procedures that every member of the university community is required to follow to ensure academic integrity. For more details please see: https://www.dal.ca/dept/university\_secretariat/academic-integrity.html  
+At Dalhousie University, we are guided in all of our work by the values of academic integrity: honesty, trust, fairness, responsibility and respect (The Center for Academic Integrity, Duke University, 1999). As a student, you are required to demonstrate these values in all of the work you do. The University provides policies and procedures that every member of the university community is required to follow to ensure academic integrity. For more details please see: [https://www.dal.ca/dept/university\_secretariat/academic-integrity.html](https://www.dal.ca/dept/university\_secretariat/academic-integrity.html)  
 
 ## Accessibility
 The Advising and Access Services Centre is Dalhousie's centre of expertise for student accessibility and accommodation. The advising team works with students who request accommodation as a result of a disability, religious obligation, or any barrier related to any other characteristic protected under Human Rights legislation (Canada and Nova Scotia).
-Information: https://www.dal.ca/campus\_life/academic-support/accessibility.html
+Information: [https://www.dal.ca/campus\_life/academic-support/accessibility.html](https://www.dal.ca/campus\_life/academic-support/accessibility.html)
 
 ## Student Code of Conduct
-Everyone at Dalhousie is expected to treat others with dignity and respect. The Code of Student Conduct allows Dalhousie to take disciplinary action if students don’t follow this community expectation. When appropriate, violations of the code can be resolved in a reasonable and informal manner—perhaps through a restorative justice process. If an informal resolution can’t be reached, or would be inappropriate, procedures exist for formal dispute resolution. For more information please see https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/student-lifepolicies/code-of-student-conduct.html
+Everyone at Dalhousie is expected to treat others with dignity and respect. The Code of Student Conduct allows Dalhousie to take disciplinary action if students don’t follow this community expectation. When appropriate, violations of the code can be resolved in a reasonable and informal manner—perhaps through a restorative justice process. If an informal resolution can’t be reached, or would be inappropriate, procedures exist for formal dispute resolution. For more information please see [https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/student-lifepolicies/code-of-student-conduct.html](https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/student-lifepolicies/code-of-student-conduct.html)
 
 ## Diversity and Inclusion – Culture of Respect
-Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education. We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction prioritizes fostering a culture of diversity and inclusiveness. For more information please see http://www.dal.ca/cultureofrespect.html)
+Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education. We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction prioritizes fostering a culture of diversity and inclusiveness. For more information please see [http://www.dal.ca/cultureofrespect.html](http://www.dal.ca/cultureofrespect.html)
 
 ## Important Dates in the Academic Year (including add/drop dates)
-https://www.dal.ca/academics/important\_dates.html
+[https://www.dal.ca/academics/important\_dates.html](https://www.dal.ca/academics/important\_dates.html)
 
 ## University Grading Practices
-https://www.dal.ca/dept/university\_secretariat/policies/academic/grading-practices-policy.html
+[https://www.dal.ca/dept/university\_secretariat/policies/academic/grading-practices-policy.html](https://www.dal.ca/dept/university\_secretariat/policies/academic/grading-practices-policy.html)
 
 ## Missed or Late Academic Requirements due to Student Absence (policy)
-https://www.dal.ca/dept/university\_secretariat/policies/academic/missed-or-late-academicrequirements-due-to-student-absence.html
-
+[https://www.dal.ca/dept/university\_secretariat/policies/academic/missed-or-late-academicrequirements-due-to-student-absence.html
+](https://www.dal.ca/dept/university\_secretariat/policies/academic/missed-or-late-academicrequirements-due-to-student-absence.html
+)
 ## Learning and Support Resources
 
 ### Advising
-General Advising https://www.dal.ca/campus\_life/academic-support/advising.html
+General Advising [https://www.dal.ca/campus\_life/academic-support/advising.html](https://www.dal.ca/campus\_life/academic-support/advising.html)
 
-Science Program Advisors: https://www.dal.ca/faculty/science/current-students/academic-advising.html
+Science Program Advisors: [https://www.dal.ca/faculty/science/current-students/academic-advising.html](https://www.dal.ca/faculty/science/current-students/academic-advising.html)
 
-Indigenous Student Centre: https://www.dal.ca/campus\_life/communities/indigenous.html  
+Indigenous Student Centre: [https://www.dal.ca/campus\_life/communities/indigenous.html](https://www.dal.ca/campus\_life/communities/indigenous.html  )
 
-Black Students Advising Centre: https://www.dal.ca/campus\_life/communities/black-student-advising.html
+Black Students Advising Centre: [https://www.dal.ca/campus\_life/communities/black-student-advising.html](https://www.dal.ca/campus\_life/communities/black-student-advising.html)
 
-International Centre: https://www.dal.ca/campus\_life/international-centre/current-students.html
+International Centre: [https://www.dal.ca/campus\_life/international-centre/current-students.html](https://www.dal.ca/campus\_life/international-centre/current-students.html)
 
 ### Academic supports
-Library: https://libraries.dal.ca  
+Library: [https://libraries.dal.ca](https://libraries.dal.ca)  
 
-Writing Centre: https://www.dal.ca/campus\_life/academic-support/writing-and-study-skills.html
+Writing Centre: [https://www.dal.ca/campus\_life/academic-support/writing-and-study-skills.html](v)
 
-Studying for Success: https://www.dal.ca/campus\_life/academic-support/study-skills-and-tutoring.html
+Studying for Success: [https://www.dal.ca/campus\_life/academic-support/study-skills-and-tutoring.html](https://www.dal.ca/campus\_life/academic-support/study-skills-and-tutoring.html)
 
-Copyright Office: https://libraries.dal.ca/services/copyright-office.html  
+Copyright Office: [https://libraries.dal.ca/services/copyright-office.html](https://libraries.dal.ca/services/copyright-office.html)  
 
-Fair Dealing Guidelines https://libraries.dal.ca/services/copyright-office/fair-dealing.html
+Fair Dealing Guidelines [https://libraries.dal.ca/services/copyright-office/fair-dealing.html](https://libraries.dal.ca/services/copyright-office/fair-dealing.html)
 
 ### Other supports and services
-Student Health & Wellness Centre: https://www.dal.ca/campus\_life/health-and-wellness/servicessupport/student-health-and-wellness.html
+Student Health & Wellness Centre: [https://www.dal.ca/campus\_life/health-and-wellness/servicessupport/student-health-and-wellness.html](https://www.dal.ca/campus\_life/health-and-wellness/servicessupport/student-health-and-wellness.html)
 
-Student Advocacy: https://dsu.ca/dsas
+Student Advocacy: [https://dsu.ca/dsas](https://dsu.ca/dsas)
 
-Ombudsperson: https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/where-to-get-help/ombudsperson.html
+Ombudsperson: [https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/where-to-get-help/ombudsperson.html](https://www.dal.ca/campus\_life/safety-respect/student-rights-and-responsibilities/where-to-get-help/ombudsperson.html)
 
 ### Safety
 
-Biosafety: https://www.dal.ca/dept/safety/programs-services/biosafety.html
+Biosafety: [https://www.dal.ca/dept/safety/programs-services/biosafety.html](https://www.dal.ca/dept/safety/programs-services/biosafety.html)
 
-Chemical Safety: https://www.dal.ca/dept/safety/programs-services/chemical-safety.html
+Chemical Safety: [https://www.dal.ca/dept/safety/programs-services/chemical-safety.html](https://www.dal.ca/dept/safety/programs-services/chemical-safety.html)
 
-Radiation Safety: https://www.dal.ca/dept/safety/programs-services/radiation-safety.html
-Scent-Free Program: https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-free.html
+Radiation Safety: [https://www.dal.ca/dept/safety/programs-services/radiation-safety.html](https://www.dal.ca/dept/safety/programs-services/radiation-safety.html)
+
+Scent-Free Program: [https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-free.html](https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-free.html)
