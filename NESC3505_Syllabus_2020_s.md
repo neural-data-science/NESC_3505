@@ -1,4 +1,5 @@
-![](Dal_FullMark_Gold.png)
+<img src="Dal_FullMark_Gold.png" width=225>
+
 ## Syllabus
 
 # NESC 3505
