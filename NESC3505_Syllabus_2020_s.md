@@ -1,3 +1,4 @@
+![][Dal_FullMark_Gold.png]
 ## Syllabus
 
 # NESC 3505
