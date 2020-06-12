@@ -1,8 +1,4 @@
-## Syllabus
-
-# NESC 3505
-
-## Neural Data Science
+# NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 ### Summer 2020, version 0.7, 2020-06-08
 
