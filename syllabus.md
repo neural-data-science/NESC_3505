@@ -51,7 +51,7 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 ## Hard Skills
 - Extract meaning from data, but also articulate the limitations of the conclusions you can draw from it
 - Write functional and efficient code in Python to perform basic data science tasks
-- Use GitHub for collaborative software development and project management
+- Use online tools for collaborative software development and project management
 - Read and write data files in common formats such as CSV and Excel
 - Organize and manipulate data structures
 - Work with continuous, discrete, and factorial data
@@ -60,32 +60,46 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 - Perform basic signal processing on data, such as filtering in temporal and spatial dimensions
 - Build and run data processing pipelines on various types of neuroscientific data, including single unit recordings, time series, and 2D/3D/4D images
 - Understand basic concepts and common tools used in machine learning, including deep neural networks
-- Extend your Python skills using online resources
+- Extend your skills using online resources
 
 ## Soft Skills
-- demonstrate a professional work ethic
-- be effective and productive in a remote working environment
-- work collaboratively, effectively, and productively in a distributed team
-- manage projects: manage time and human resources effectively to achieve specific objectives on a stated timeline
-- peer-review the work of other team members
-- teach others skills and solutions you discover, and communicate your approach to discovering these
-- articulate your strengths and weaknesses as a data scientist working in a team, and identify ways to improve your abilities
-- demonstrate skills you have developed using a portfolio of work, to potential supervisors/employers
-- use, and communicate the value of, open and reproducible code and data
+- Demonstrate a professional work ethic
+- Be effective and productive in a remote working environment
+- Work collaboratively, effectively, and productively in a distributed team
+- Manage projects: manage time and human resources effectively to achieve specific objectives on a stated timeline
+- Peer-review the work of other team members
+- Teach others skills and solutions you discover, and communicate your approach to discovering these
+- Articulate your strengths and weaknesses as a data scientist working in a team, and identify ways to improve your abilities
+- Demonstrate skills you have developed using a portfolio of work, to potential supervisors/employers
+- Use, and communicate the value of, open and reproducible code and data
 
-# Class Format and Schedule
+# Class Format
 This class consists of the following components:
 - Online lectures, lessons, and tutorials
 - Scheduled class time to work on assignments and get guidance from the teaching team
 
+The "home base" for this class will be a Microsoft Teams site hosted through Dalhousie University. Registered students will receive an invitation to this site via email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings.
+
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model, and is designed to be offered in an online format. Lectures and tutorials are pre-recorded and available online for viewing at any time. Many of these lessons involve quizzes and coding activities. You are expected to complete assigned lessons prior to scheduled class times. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 16 h/week for a 7-week condensed summer version of the course, or 8 h/week for the regular term version.** This is in addition to 2-3 h/week of class time.
+This course employs a “flipped classroom” model. Lectures and tutorials are pre-recorded and available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 16 h/week for a 7-week condensed summer version of the course, or 8 h/week for the regular term version.** This is in addition to 2 h/week of class time.
 
 ## Scheduled Class Time
-Scheduled class times are devoted to working on assignments and projects, with the teaching team available for discussion and guidance. Students will be encouraged to present short tutorials explaining how they approached and solved different problems. In online delivery, these are held as group video sessions, with screen sharing. Classes involve assignments that build on the online lessons, so students who have not completed the online lessons prior to class time will not get much benefit from the class time. Participation in the scheduled classes is not mandatory, but strongly recommended. **Scheduled class times are the only times when the teaching team is available for live consultation on course work**. Questions submitted outside of class time may be addressed by the teaching team during class time.  
+**Participation in live classes is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, class times are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of class times, but there is no guaranteed response time prior to the next class (we will do what we can, but have many demands on our time).
+
+The timing of class meetings will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling class times.
+
+Scheduled class times consist of check-ins and demos. **Check-ins** are times when the teaching team is available for live discussion and guidance, via video chat and/or instant messaging. **Demos** are times when the class meets to view and discuss [demos](#demos) produced by students.
+
+## Getting Help
+One of the course learning objectives is "Extend your skills using online resources". You are encouraged and supported in taking a "lifelong learning" approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
+
+That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
+
+The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live class times to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately.
+
 
 # Course Materials
-All necessary materials will be provided online, either on or through Brightspace. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It is not possible to complete the course using only a mobile device (phone, tablet/iPad). **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
+All necessary materials will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It is not possible to complete the course using only a mobile device (phone, tablet/iPad). **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
 
 Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on *Open Educational Resources* — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
@@ -99,13 +113,13 @@ Formative assessments are designed to support you in improving your performance 
 Online lessons are to be completed prior to class time. Deadlines are provided online. Each lesson is graded on a pass/fail basis, based on whether you complete the lesson or not. Lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you unprepared for future classes and assignments. No points for lessons will be granted after the last day of class.
 
 ### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. Each should be 300-500 words in length.
+You will submit regular written assessments of your own learning progress over the term. Each should be 250-500 words in length.
 
-### Peer Assessments
-You will be asked to submit structured peer reviews following various group activities over the term (demo days and team projects). This will be done using a rubric asking for ratings of participation, preparation, communication, collaboration, and academic quality.
+### Team Peer Assessments
+You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality.
 
-### Demos
-These are group sessions in which each member demos something they learned/figured out in working on the assignments or projects.
+### Demo Peer Assessments
+You will provide a constructive review of demos produced by other students in the class. This will be done using a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. You will also have the option to provide specific, written feedback if you wish. The aim of these assessments is to help your fellow students make better demos (which will in turn benefit you and the rest of the class).
 
 ### Meet 'n Greets
 You will earn bonus points by participating in short (5-10 min) online one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of a text-based chat or a video chat. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects. To protect everyone's safety, all students have the ability to block others anonymously, and may discontinue a meeting at any time without penalty. All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
@@ -123,11 +137,11 @@ There are 2 team-based projects to complete. These projects are directly based o
 
 Late work will be penalized 1% per hour, with the clock starting the minute after the deadline has elapsed. Requests for extensions will only be considered prior to the due date.  
 
-### Portfolio
-One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments); assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term.
-
 ### Demos
-Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website or other resources you found helpful for the class, etc.. You will be rewarded for creativity in choice of topic and in delivery.
+Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, or other resources you found helpful for the class, etc.. Grading will be based on a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity.
+
+### Portfolio
+One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term.
 
 # Grading
 This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate experience points (XP) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
@@ -176,9 +190,6 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | *Projects*                            |        |          |                            |
 | Project 1                             | 6000   |          |                            |
 | Project 2                             | 8000   |          |                            |
-| *Portfolio*                           |        |          |                            |
-| Portfolio submission 1                | 1000   |          |                            |
-| Portfolio submission 2                | 3000   |          |                            |
 | *Demos*                               |        |          |                            |
 | Demo 1                                | 1500   |          |                            |
 | Demo 2                                | 1500   |          |                            |
@@ -187,6 +198,9 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Demo 5                                |        | 500      |                            |
 | Demo 6                                |        | 500      |                            |
 | Demo 7                                |        | 500      |                            |
+| *Portfolio*                           |        |          |                            |
+| Portfolio submission 1                | 1000   |          |                            |
+| Portfolio submission 2                | 3000   |          |                            |
 | **Formative Assessments (Pass/Fail)** |        |          |                            |
 | *Datacamp lessons*                    | 5000   |          | (DataCamp XP/10; max 5000) |
 | *Peer Assessments*                    |        |          |                            |
@@ -240,7 +254,7 @@ That's a lot of ways to earn points! The table below summarizes how the points a
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional. However, due to the flipped classroom model, scheduled class times are the only time when you can ask the instructor for help or guidance with coursework. You may also find some of the discussions held during class time useful to support your learning. Outside of scheduled class time, the instructor is not available to help with course work. However, if you have other issues you need to discuss (e.g., personal reasons that make it difficult for you to succeed in the class), you may contact the instructor by email to discuss the matter either that way, or in a meeting (online or in-person).
+Attendance of scheduled class meetings is optional. However, due to the flipped classroom model, scheduled class times are the only time when you can get live help with the course material. However, if you have other issues you need to discuss (e.g., personal reasons that make it difficult for you to succeed in the class), you may contact the instructor by email to discuss the matter and/or set up a meeting.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
