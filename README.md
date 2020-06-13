@@ -1,9 +1,17 @@
-## NESC 3505 Neural Data Science
+# NESC 3505 Neural Data Science
 
-### Department of Psychology & Neuroscience, Dalhousie University
-
-[Click here to see the syllabus](NESC3505_Syllabus_2020_s.md)
+**[Department of Psychology & Neuroscience](https://dal.ca/psychandneuro), [Dalhousie University](https://dal.ca)**
 
 This course will be offered for the first time from July 6 – August 24, 2020, in an entirely online format.
 
+### Syllabus
+[Click here to see the syllabus](syllabus.md)
+
+- [Jump to the Grading section of the syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus#grading)
+- [Jump to the Assessment/Evaluation table in the syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus#how-to-earn-xp)
+
+### Schedule
+[Click here to see the schedule (Summer, 2020)](schedule.md)
+
+---
 For more information about this course, please contact [Dr. Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
