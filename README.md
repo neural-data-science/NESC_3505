@@ -2,6 +2,8 @@
 
 **[Department of Psychology & Neuroscience](https://dal.ca/psychandneuro), [Dalhousie University](https://dal.ca)**
 
+<a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505">View course description on Dal.ca</a>
+
 This course will be offered for the first time from July 6 – August 24, 2020, in an entirely online format.
 
 ### Syllabus

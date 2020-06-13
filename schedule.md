@@ -1,6 +1,3 @@
-# NESC 3505: Neural Data Science
-
-
 ## Schedule
 ### Summer 2020
 
