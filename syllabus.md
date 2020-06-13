@@ -223,12 +223,12 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Self-assessment 6                     | 150    |          |                            |
 | Complete all self-assessments         |        | 400      |                            |
 | *Meet 'n Greets*                      |        |          |                            |
-| Slack snack or donut 1                | 100    |          |                            |
-| Slack snack or donut 2                | 100    |          |                            |
-| Slack snack or donut 3                | 100    |          |                            |
-| Slack snack or donut 4                |        | 100      |                            |
-| Slack snack or donut 5                |        | 100      |                            |
-| Slack snack or donut 6                |        | 100      |                            |
+| Meet 'n Greet 1                       | 100    |          |                            |
+| Meet 'n Greet 2                       | 100    |          |                            |
+| Meet 'n Greet 3                       | 100    |          |                            |
+| Meet 'n Greet 4                       |        | 100      |                            |
+| Meet 'n Greet 5                       |        | 100      |                            |
+| Meet 'n Greet 6                       |        | 100      |                            |
 | *Other Bonus Points*                  |        |          |                            |
 | Did not ask for extension bonus       |        | 200      |                            |
 | Project 1 team size > 3 people        |        | 200      |                            |
