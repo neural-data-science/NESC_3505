@@ -8,6 +8,4 @@ This course will be offered for the first time from July 6 – August 24, 2020,
 
 [**Syllabus**](syllabus.md)  — [**Grading**](https://dalpsychneuro.github.io/NESC_3505/syllabus#grading) — [**XP system**]() — [**Schedule**](schedule.md)
 
-
----
 For more information about this course, please contact [Dr. Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
