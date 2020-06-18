@@ -6,7 +6,7 @@
 
 This course will be offered for the first time from July 6 – August 24, 2020, in an entirely online format.
 
-[**Syllabus**](syllabus.md) | [**Grading**](https://dalpsychneuro.github.io/NESC_3505/syllabus#grading) | [**XP system**]() | [**Schedule**](schedule.md)
+[**Syllabus**](syllabus.md)  — [**Grading**](https://dalpsychneuro.github.io/NESC_3505/syllabus#grading) — [**XP system**]() — [**Schedule**](schedule.md)
 
 
 ---
