@@ -128,15 +128,14 @@ You will earn bonus points by participating in short (5-10 min) online one-on-on
 ## Summative Evaluations
 Summative evaluations comprise the majority of your final grade (approximately 80%). All summative evaluations are graded. Because 20% of your final grade (the formative assessments) are "easy" pass/fail points, you can expect that grading of the summative evaluations will be quite strict.
 
+For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
+
+
 ### Assignments
 These are coding assignments that you will complete, based on neuroscience data. There is an assignment due every week, except weeks when projects are due. Scheduled class time is the only time you will be able to get help on the assignments from the teaching team. There will be 6 assignments over the term. You must submit a minimum of 4 of these, but bonus points will be awarded for submitting 5 or 6.
 
-Late work will be penalized 1% per hour, with the clock starting the minute after the deadline has elapsed. Requests for extensions will only be considered prior to the due date.
-
 ### Projects
 There are 2 team-based projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
-
-Late work will be penalized 1% per hour, with the clock starting the minute after the deadline has elapsed. Requests for extensions will only be considered prior to the due date.  
 
 ### Demos
 Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, or other resources you found helpful for the class, etc.. Grading will be based on a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity.
