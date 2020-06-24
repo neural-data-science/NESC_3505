@@ -37,7 +37,7 @@ Once you're logged in, you see a screen like the one below.
 
 *You can also play around with other settings like Dark Mode. However, it's not advisable to change any settings you don't understand!*
 
-To get out of your account settings, click the tab in the top left (-ish) corner as shown with eh green circle below.
+To get out of your account settings, click the tab in the top left (-ish) corner as shown with the green circle below.
 
 ![](images/cocalc3.png)
 
@@ -51,7 +51,7 @@ Once you're in the project, across the top you'll see a few tabs, as shown below
 
 ## Your First Jupyter Notebook!
 
-Assignments generally come with all the files you need already in the folder for that assignment. When the teaching team assigns and assignment to you, CoCalc copies the assignment's files into your CoCalc account/workspace. This means that any changes you make to these files only affect you — they don't change the "master" files, nor can any other student see your work.
+Assignments generally come with all the files you need already in the folder for that assignment. When the teaching team assigns an assignment to you, CoCalc copies the assignment's files into your CoCalc account/workspace. This means that any changes you make to these files only affect you — they don't change the "master" files, nor can any other student see your work.
 
 When you go into the Assignment_1 folder, you will see one file: `Assignment_1.ipynb`. In general, all assignments will follow this pattern: the main/first files you should open should be the one called `Assignment_[num].ipynb`. The `.ipynb` *extension* (letters after the dot indicating file type) identifies this file as a Jupyter notebook file (for historical reasons; Jupyter notebooks were originally called "iPython notebooks", but the name was changed once the project was expanded to support other programming languages).
 
