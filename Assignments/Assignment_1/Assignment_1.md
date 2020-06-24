@@ -25,11 +25,11 @@ From here you can click on assignments to start them.
 
 However, sometimes you may get lost navigating DataCamp. In particular, if you click on your avatar (the circle with the "A" in the top right corner of the screenshot above), you'll see "DataCamp Home" which will take you to the wider world of DataCamp. You're welcome to explore there, although it's beyond what you need for the class. If you do explore, you may find it confusing to get back to the class assignment listing. To do so, click on "Organizations" in the left menu bar of DataCamp Home, and it will take you back.
 
-**Assignment task 2:** Log on to DataCamp, get your account set up.
+**Assignment task 2:** [Log on to DataCamp](https://www.datacamp.com/), get your account set up.
 
 ## CoCalc
 
-You will also receive an email inviting you to sign up on CoCalc. When you follow this link, you'll want to use the "Create Account" box on the left side of the window, and you need to click the "I agree to the Terms of Service" box before you can create an account. Sign up using your @dal.ca netID email address. Don't click one of the social media icons or try to sign up using something other than your Dal.ca account. Use your real first and last names (this info is not public; it's visible only inside our class project), and choose a secure password.
+You will also receive an email inviting you to sign up on [CoCalc](https://cocalc.com/). When you follow this link, you'll want to use the "Create Account" box on the left side of the window, and you need to click the "I agree to the Terms of Service" box before you can create an account. Sign up using your @dal.ca netID email address. Don't click one of the social media icons or try to sign up using something other than your Dal.ca account. Use your real first and last names (this info is not public; it's visible only inside our class project), and choose a secure password.
 
 Once you're logged in, you see a screen like the one below.
 
