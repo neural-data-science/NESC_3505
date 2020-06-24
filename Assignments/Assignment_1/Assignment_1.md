@@ -10,7 +10,7 @@ If you are reading this, then you have likely figured out how to get onto Teams.
 Teams is your "home base" for this course and you should be checking in there on a daily basis to keep track of any announcements, updates, etc., as well as using it to access all the course material.
 
 
-<p style="color:#0F4C81";><b>Assignment task 1:</b> Post a message in the General channel in Teams, saying hello!</p>
+**Assignment task 1:** Post a message in the General channel in Teams, saying hello!
 
 
 ## DataCamp
@@ -25,7 +25,7 @@ From here you can click on assignments to start them.
 
 However, sometimes you may get lost navigating DataCamp. In particular, if you click on your avatar (the circle with the "A" in the top right corner of the screenshot above), you'll see "DataCamp Home" which will take you to the wider world of DataCamp. You're welcome to explore there, although it's beyond what you need for the class. If you do explore, you may find it confusing to get back to the class assignment listing. To do so, click on "Organizations" in the left menu bar of DataCamp Home, and it will take you back.
 
-<p style="color:#0F4C81";><b>Assignment task 2:</b> Log on to DataCamp, get your account set up.</p>
+**Assignment task 2:** Log on to DataCamp, get your account set up.
 
 ## CoCalc
 
@@ -33,7 +33,7 @@ You will also receive an email inviting you to sign up on CoCalc. When you follo
 
 Once you're logged in, you see a screen like the one below.
 
-<p style="color:#0F4C81";><b>Assignment task 3:</b> Click on "Account" in the top right corner of the CoCalc window. This will open your account settings. Explore this a little. We encourage everyone to add an avatar picture. If you already use the Gravatar or Adorable services, you can link to these, or you can "Choose File" to upload a picture of your choosing.</p>
+**Assignment task 3:** Click on "Account" in the top right corner of the CoCalc window. This will open your account settings. Explore this a little. We encourage everyone to add an avatar picture. If you already use the Gravatar or Adorable services, you can link to these, or you can "Choose File" to upload a picture of your choosing.
 
 *You can also play around with other settings like Dark Mode. However, it's not advisable to change any settings you don't understand!*
 
@@ -55,7 +55,7 @@ Assignments generally come with all the files you need already in the folder for
 
 When you go into the Assignment_1 folder, you will see one file: `Assignment_1.ipynb`. In general, all assignments will follow this pattern: the main/first files you should open should be the one called `Assignment_[num].ipynb`. The `.ipynb` *extension* (letters after the dot indicating file type) identifies this file as a Jupyter notebook file (for historical reasons; Jupyter notebooks were originally called "iPython notebooks", but the name was changed once the project was expanded to support other programming languages).
 
-<p style="color:#0F4C81";><b>Assignment task 4:</b> On CoCalc, follow the instructions above then click on `Assignment_1.ipynb`. Follow the directions inside that file. </p>
+**Assignment task 4:** On CoCalc, follow the instructions above then click on `Assignment_1.ipynb`. Follow the directions inside that file.
 
 ### Submitting assignments on CoCalc
 
