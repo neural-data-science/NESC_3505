@@ -6,6 +6,6 @@
 
 This course will be offered for the first time from July 6 – August 24, 2020, in an entirely online format.
 
-[**Syllabus**](syllabus.md) \| [**Grading**](https://dalpsychneuro.github.io/NESC_3505/syllabus#grading) \| [**XP system**](https://dalpsychneuro.github.io/NESC_3505/syllabus#how-to-earn-xp) \| [**Schedule**](schedule.md) \| [**Textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook)
+For more information about this course, see the links at the top of this page.
 
-For more information about this course, please contact [Dr. Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
+If you have questions, please contact the course designer, [Dr. Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
