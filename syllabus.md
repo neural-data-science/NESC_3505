@@ -3,18 +3,31 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Summer 2020, version 0.8, 2020-06-12
+### Summer 2020, version 0.9, 2020-07-05
 Course will run July 6 – August 24, 2020
 
 **DRAFT: subject to change prior to start of the course**
 
 #### Instructor
 Dr. [Aaron Newman](http://aaronjnewman.com)
+
 Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
 #### Teaching Assistant
-TBD
+Danny Godfrey (use Teams to contact the TA)
 
+Contents:
+[Course Description](#course-description)
+[Background & Rationale](#background-and-rationale)
+[Learning Objectives](#learning-objectives)
+[Format](#course-format)
+[Materials](course-materials)
+[Assessment & Evaluation](#assessment-and-evaluation)
+[Grading](#grading)
+[Schedule](#schedule)
+[Policies](#policies)
+
+---
 ## Recognition of Mi’kmaq Territory
 Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people. The Elders in Residence program provides students with access to First Nations elders for guidance, counsel and support. Visit the [Indigenous Student Centre](https://www.dal.ca/campus_life/communities/indigenous.html) or contact the programs at [elders@dal.ca](mailto:elders@dal.ca).
 
@@ -73,10 +86,10 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 - Demonstrate skills you have developed using a portfolio of work, to potential supervisors/employers
 - Use, and communicate the value of, open and reproducible code and data
 
-# Class Format
-This class consists of the following components:
-- Online lectures, lessons, and tutorials
-- Scheduled class time to work on assignments and get guidance from the teaching team
+# Course Format
+This course consists of the following components:
+- Asynchronous online lectures, lessons, and tutorials
+- Optional, synchronous (scheduled/live) class time to get guidance from the teaching team
 
 The "home base" for this class will be a Microsoft Teams site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings.
 
@@ -114,22 +127,23 @@ Formative assessments are designed to support you in improving your performance 
 Online lessons are to be completed prior to class time. Deadlines are provided online. Each lesson is graded on a pass/fail basis, based on whether you complete the lesson or not. Lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you unprepared for future classes and assignments. No points for lessons will be granted after the last day of class.
 
 ### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. Each should be 250-500 words in length.
+You will submit regular written assessments of your own learning progress over the term. Each should be 250-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course.
 
 ### Team Peer Assessments
-You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality.
+You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
 
 ### Demo Peer Assessments
-You will provide a constructive review of demos produced by other students in the class. This will be done using a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. You will also have the option to provide specific, written feedback if you wish. The aim of these assessments is to help your fellow students make better demos (which will in turn benefit you and the rest of the class).
+You will provide a constructive review of demos produced by other students in the class. This will be done using a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. You will also have the option to provide specific, written feedback if you wish. The aim of these assessments is to help your fellow students make better demos (which will in turn benefit you and the rest of the class). Peer assessments are due within 1 week of the demo's being posted (so, 1 week after the demo day that it's submitted for). **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Since your feedback is intended to help improve the quality of demos, it's not useful if it's not timely.
 
 ### Meet 'n Greets
 You will earn bonus points by participating in short (5-10 min) online one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of a text-based chat or a video chat. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects. To protect everyone's safety, all students have the ability to block others anonymously, and may discontinue a meeting at any time without penalty. All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
+
+Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required demos should be completed by the end of the second week of class (7 week summer course), or by the end of the first month of class (12 week course).
 
 ## Summative Evaluations
 Summative evaluations comprise the majority of your final grade (approximately 80%). All summative evaluations are graded. Because 20% of your final grade (the formative assessments) are "easy" pass/fail points, you can expect that grading of the summative evaluations will be quite strict.
 
 For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
-
 
 ### Assignments
 These are coding assignments that you will complete, based on neuroscience data. There is an assignment due every week, except weeks when projects are due. Scheduled class time is the only time you will be able to get help on the assignments from the teaching team. There will be 6 assignments over the term. You must submit a minimum of 4 of these, but bonus points will be awarded for submitting 5 or 6.
@@ -138,7 +152,11 @@ These are coding assignments that you will complete, based on neuroscience data.
 There are 2 team-based projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
 
 ### Demos
-Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, or other resources you found helpful for the class, etc.. Grading will be based on a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity.
+Based on workflows in Silicon Valley and the tech industry more generally, the idea of Demos is that you can learn a lot from each other — and often, your classmates (who are in the same "boat" as you in terms of learning) can have more sensitivity and shared experience in the learning process than the teaching team. Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, an interesting interview with a data scientist or neuroscientist talking about data science; other resources you found helpful for the class, etc..
+
+Grading (by the teaching team) will be based on a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. In addition, demos can be peer-reviewed (see [Formative Assessments](#demo-peer-assessments), above) based on the same criteria. Note that only three demos are required; you may submit up to four more demos for bonus points.
+
+At the end of every week (7-week course) or two weeks (12-week course) there will be a scheduled, synchronous "Demo Day". You are not required to attend Demo Days synchronously, but they are an opportunity to share and showcase work, ask questions, and generally discuss the demos and course material. Demo days also serve as the deadline for submitting each demo.
 
 ### Portfolio
 One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term.
