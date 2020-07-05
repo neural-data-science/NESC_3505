@@ -16,16 +16,16 @@ Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 #### Teaching Assistant
 Danny Godfrey (use Teams to contact the TA)
 
-Contents:
-[Course Description](#course-description)
-[Background & Rationale](#background-and-rationale)
-[Learning Objectives](#learning-objectives)
-[Format](#course-format)
-[Materials](course-materials)
-[Assessment & Evaluation](#assessment-and-evaluation)
-[Grading](#grading)
-[Schedule](#schedule)
-[Policies](#policies)
+## Contents:
+- [Course Description](#course-description)
+- [Background & Rationale](#background-and-rationale)
+- [Learning Objectives](#learning-objectives)
+- [Format](#course-format)
+- [Materials](course-materials)
+- [Assessment & Evaluation](#assessment-and-evaluation)
+- [Grading](#grading)
+- [Schedule](#schedule)
+- [Policies](#policies)
 
 ---
 ## Recognition of Mi’kmaq Territory
