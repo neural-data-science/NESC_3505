@@ -14,7 +14,7 @@ Dr. [Aaron Newman](http://aaronjnewman.com)
 Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
 #### Teaching Assistant
-Danny Godfrey (use Teams to contact the TA)
+[Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
 
 ## Contents:
 - [Course Description](#course-description)
