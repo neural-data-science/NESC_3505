@@ -9,7 +9,7 @@ Course will run July 6 – August 24, 2020
 **DRAFT: subject to change prior to start of the course**
 
 #### Instructor
-Dr. [Aaron Newman](http://aaronjnewman.com)
+[Dr. Aaron Newman](http://aaronjnewman.com)
 
 Email: [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
