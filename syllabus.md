@@ -1,4 +1,3 @@
-
 # Syllabus
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
