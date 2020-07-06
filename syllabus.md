@@ -3,10 +3,8 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Summer 2020, version 0.9, 2020-07-05
-Course will run July 6 – August 24, 2020
-
-**DRAFT: subject to change prior to start of the course**
+### Summer 2020, version 0.9.1, 2020-07-05
+July 6 – August 24, 2020
 
 #### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Email](mailto:Aaron.Newman@dal.ca))
@@ -14,6 +12,7 @@ Course will run July 6 – August 24, 2020
 #### Teaching Assistant
 [Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
 
+---
 ## Contents:
 - [Course Description](#course-description)
 - [Background & Rationale](#background-and-rationale)
@@ -32,6 +31,7 @@ Dalhousie University is located in Mi’kma’ki, the ancestral and unceded terr
 ## Diversity and Inclusion – Culture of Respect
 Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education. We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction prioritizes fostering a culture of diversity and inclusiveness. For more information please see [here](http://www.dal.ca/cultureofrespect.html).
 
+---
 # Course Description
 An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
 
