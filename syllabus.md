@@ -3,7 +3,7 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Summer 2020, version 0.9.1, 2020-07-05
+### Summer 2020, version 1.0, 2020-07-06
 July 6 – August 24, 2020
 
 ### Instructor
