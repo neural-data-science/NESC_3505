@@ -6,7 +6,7 @@
 ### Summer 2020, version 0.9.1, 2020-07-05
 July 6 – August 24, 2020
 
-#### Instructor
+### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Email](mailto:Aaron.Newman@dal.ca))
 
 #### Teaching Assistant
