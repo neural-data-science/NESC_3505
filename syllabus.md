@@ -263,7 +263,7 @@ That's a lot of ways to earn points! The table below summarizes how the points a
 
 # Schedule
 
-[Click here to see the schedule](schedule.md).
+[Click here to see the schedule](https://dalpsychneuro.github.io/NESC_3505/schedule.html).
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
