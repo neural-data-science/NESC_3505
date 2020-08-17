@@ -6,7 +6,7 @@
 September 8 – December 8, 2020
 
 ### Instructor
-[Dr. Aaron Newman](http://aaronjnewman.com) ([Email](mailto:Aaron.Newman@dal.ca))
+[Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
 
 #### Teaching Assistant
 [Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
