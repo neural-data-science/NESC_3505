@@ -2,8 +2,8 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Summer 2020, version 1.0, 2020-07-06
-July 6 – August 24, 2020
+### Fall 2020, version 1.0, 2020-08-17
+September 8 – December 8, 2020
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Email](mailto:Aaron.Newman@dal.ca))
@@ -35,18 +35,18 @@ Every person at Dalhousie has a right to be respected and safe. We believe inclu
 An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
 
 ## Prerequisites
-__PSYO 2000__, __PSYO 2501__, and __NESC 2470__, with a minimum grade of B in PSYO 2501. Grades of B+ or better in all three classes are recommended. __No prior programming experience is required__.
+**PSYO 2000**, **PSYO 2501**, and **NESC 2470**, with a minimum grade of B in PSYO 2501. Grades of B+ or better in all three classes are recommended. **No prior programming experience is required**.
 
 # Background and Rationale
 Most areas of neuroscience research and development rely on increasingly large and complex data sets. Discovery and application in neuroscience thus relies on the ability to manage these large data sets, and extract meaning from them. In other words, neuroscience now relies heavily on **data science**, which has been variously defined as “…an umbrella term to describe the entire complex and multistep processes used to extract value from data.” (Wing, 2019) and the ability to “bring structure to large quantities of formless data and make analysis possible” (Davenport & Patil, 2012, p.73).
 
-__In neuroscience, data science is an increasingly necessary skill.__ Data from techniques like single-cell recordings, local field potentials, EEG, and fMRI is complex and multidimensional. Being able to understand, manipulate, and visualize the structure of these complex datasets is a necessary skill for performing the research. On top of this, it is increasingly clear that very large data sets - often built collaboratively by many labs - are required to make reliable inferences about neuroscientific processes. Making inferences also depends on computational models - ways of identifying and representing patterns in the data. While some of these will be familiar from statistics class, a wide range of statistical and machine learning models are now widely used in neuroscience.
+**In neuroscience, data science is an increasingly necessary skill.** Data from techniques like single-cell recordings, local field potentials, EEG, and fMRI is complex and multidimensional. Being able to understand, manipulate, and visualize the structure of these complex datasets is a necessary skill for performing the research. On top of this, it is increasingly clear that very large data sets - often built collaboratively by many labs - are required to make reliable inferences about neuroscientific processes. Making inferences also depends on computational models - ways of identifying and representing patterns in the data. While some of these will be familiar from statistics class, a wide range of statistical and machine learning models are now widely used in neuroscience.
 
 While data science and statistics are overlapping fields, statistics is generally focused on the specific task of testing hypotheses based on data. Data science more broadly includes the storage, manipulation, visualization, filtering, and preparation of data that is typically required prior to statistical analysis. Data science does also encompass statistics, as well as machine learning; whereas statistics generally involves deriving conclusions from existing data, machine learning involves making predictions from a data set that will generalize to other data. Since statistics is covered in other courses in the neuroscience and psychology curricula, this course focuses instead on the other “front-end” aspects of data science described above. Other areas of data science, including “back-end” data science (engineering, hardware, databases) and software development, will not be covered.
 
 Central to data science is the ability to use scientific programming languages, such as Python, Matlab, and R. This ability includes a strong understanding of the fundamentals of at least one programming language, and the ability to extend one’s knowledge through continuous learning and problem-solving. This course teaches Python, a mature and widely-used language in neuroscience and data science more broadly. However, much of the fundamentals of scientific programming and data science are common to all languages. Thus, having learned Python, you will be better prepared to learn new languages in the future, as necessary.
 
-Another important facet of data science is that it is a __team endeavour__. On the one hand, it is founded on open, shared software developed by widely distributed teams of contributors. On the other hand, the practice of data science typically involves teams of individuals with complementary skillsets, both due to the size and complexity of many projects. In science, these teams often comprise students and faculty members in collaborating labs distributed around the world. This class prepares you for such collaboration by developing and coaching your teamwork skills, as well as teaching you how to use software platforms that support such collaboration.
+Another important facet of data science is that it is a **team endeavour**. On the one hand, it is founded on open, shared software developed by widely distributed teams of contributors. On the other hand, the practice of data science typically involves teams of individuals with complementary skillsets, both due to the size and complexity of many projects. In science, these teams often comprise students and faculty members in collaborating labs distributed around the world. This class prepares you for such collaboration by developing and coaching your teamwork skills, as well as teaching you how to use software platforms that support such collaboration.
 
 The skills learned in this class will benefit students working in a wide variety of areas of neuroscience. As well, the class will provide an introductory foundation in data science that can be applied to a wide range of areas of research and application, in academia, industry, and government.
 
@@ -86,26 +86,24 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 # Course Format
 This course consists of the following components:
 - Asynchronous online lectures, lessons, and tutorials
-- Optional, synchronous (scheduled/live) class time to get guidance from the teaching team
+- Optional, synchronous (scheduled/live) check-ins to get guidance from the teaching team
 
-The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings.
+The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.**
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are pre-recorded and available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 16 h/week for a 7-week condensed summer version of the course, or 8 h/week for the regular term version.** This is in addition to 2 h/week of class time.
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the online textbook and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
 
-## Scheduled Class Time
-**Participation in live classes is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, class times are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of class times, but there is no guaranteed response time prior to the next class (we will do what we can, but have many demands on our time).
+## Check-Ins
+**Participation in live check-ins is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, check-ins are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
 
-The timing of class meetings will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling class times.
-
-Scheduled class times consist of check-ins and demos. **Check-ins** are times when the teaching team is available for live discussion and guidance, via video chat and/or instant messaging. **Demos** are times when the class meets to view and discuss [demos](#demos) produced by students.
+The timing of check-ins will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling check-ins.
 
 ## Getting Help
 One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
-The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live class times to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately.
+The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use directmessaging on Teams.
 
 # Course Materials
 All necessary materials will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
@@ -126,11 +124,11 @@ Online lessons are to be completed prior to class time. Deadlines are provided o
 ### Self-Assessments
 You will submit regular written assessments of your own learning progress over the term. Each should be 250-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course.
 
-### Team Peer Assessments
-You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
-
 ### Demo Peer Assessments
 You will provide a constructive review of demos produced by other students in the class. This will be done using a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. You will also have the option to provide specific, written feedback if you wish. The aim of these assessments is to help your fellow students make better demos (which will in turn benefit you and the rest of the class). Peer assessments are due within 1 week of the demo's being posted (so, 1 week after the demo day that it's submitted for). **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Since your feedback is intended to help improve the quality of demos, it's not useful if it's not timely.
+
+### Portfolio Peer Assessment
+You will provide constructive reviews of other students' first-draft portfolios. This has two purposes. One is to get feedback from classmates on your work. The other is for you to get a sense of how other people developed their portfolio, which may provide you with inspiration for your final version. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The peer assessments you receive will not affect your portfolio grade, but are meant only as constructive feedback for you.
 
 ### Meet 'n Greets
 You will earn bonus points by participating in short (5-10 min) online one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of a text-based chat or a video chat. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects. To protect everyone's safety, all students have the ability to block others anonymously, and may discontinue a meeting at any time without penalty. All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
@@ -148,6 +146,9 @@ These are coding assignments that you will complete, based on neuroscience data.
 ### Projects
 There are 2 [team-based](https://dalpsychneuro.github.io/NESC_3505_textbook/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
 
+### Project Peer Assessments
+You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
+
 ### Demos
 Based on workflows in Silicon Valley and the tech industry more generally, the idea of Demos is that you can learn a lot from each other — and often, your classmates (who are in the same "boat" as you in terms of learning) can have more sensitivity and shared experience in the learning process than the teaching team. Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, an interesting interview with a data scientist or neuroscientist talking about data science; other resources you found helpful for the class, etc..
 
@@ -156,7 +157,7 @@ Grading (by the teaching team) will be based on a rubric with four components: q
 At the end of every week (7-week course) or two weeks (12-week course) there will be a scheduled, synchronous "Demo Day". You are not required to attend Demo Days synchronously, but they are an opportunity to share and showcase work, ask questions, and generally discuss the demos and course material. Demo days also serve as the deadline for submitting each demo.
 
 ### Portfolio
-One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term.
+One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site. There are also a colection of videos with advice on how to create and format your portfolio online.
 
 # Grading
 This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate [experience points (XP)](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html#everyone-starts-with-an-f) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
@@ -205,14 +206,15 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | *Projects*                            |        |          |                            |
 | Project 1                             | 6000   |          |                            |
 | Project 2                             | 8000   |          |                            |
+| Project 1 peer assessment             | 500    |          |                            |
+| Project 2 peer assessment             | 500    |          |                            |
 | *Demos*                               |        |          |                            |
-| Demo 1                                | 1500   |          |                            |
-| Demo 2                                | 1500   |          |                            |
-| Demo 3                                | 1500   |          |                            |
-| Demo 4                                |        | 500      |                            |
-| Demo 5                                |        | 500      |                            |
-| Demo 6                                |        | 500      |                            |
-| Demo 7                                |        | 500      |                            |
+| Demo (best mark)                      | 1500   |          |                            |
+| Demo (2nd best mark)                  | 1500   |          |                            |
+| Demo (3rd best mark)                  | 1500   |          |                            |
+| Demo (4th best mark)                  |        | 500      |                            |
+| Demo (5th best mark)                  |        | 500      |                            |
+| Demo (6th best mark)                  |        | 500      |                            |
 | *Portfolio*                           |        |          |                            |
 | Portfolio submission 1                | 1000   |          |                            |
 | Portfolio submission 2                | 3000   |          |                            |
@@ -222,11 +224,10 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Demos: 1st peer assessment            | 100    |          |                            |
 | Demos: 2nd peer assessment            | 100    |          |                            |
 | Demos: 3rd peer assessment            | 100    |          |                            |
-| Demos: 4th peer assessment            | 100    |          |                            |
-| Demos: 5th peer assessment            | 100    |          |                            |
-| Demos: 6th peer assessment            | 100    |          |                            |
-| Project 1 peer assessment             | 500    |          |                            |
-| Project 2 peer asessment              | 500    |          |                            |
+| Demos: 4th peer assessment            |        | 100      |                            |
+| Demos: 5th peer assessment            |        | 100      |                            |
+| Demos: 6th peer assessment            |        | 100      |                            |
+| Portfolio v1 peer assessment          | 150    |          |                            |
 | Complete all Peer Assessments         |        | 400      |                            |
 | *Self-Assessments*                    |        |          |                            |
 | Self-assessment 1                     | 150    |          |                            |
@@ -235,6 +236,7 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Self-assessment 4                     | 150    |          |                            |
 | Self-assessment 5                     | 150    |          |                            |
 | Self-assessment 6                     | 150    |          |                            |
+| Self-assessment 7                     | 150    |          |                            |
 | Complete all self-assessments         |        | 400      |                            |
 | *Meet 'n Greets*                      |        |          |                            |
 | Meet 'n Greet 1                       | 100    |          |                            |
@@ -248,18 +250,16 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Project 1 team size > 3 people        |        | 200      |                            |
 | Project 2 team size > 3 people        |        | 200      |                            |
 | Typo reports                          |        | 250      | 50 ea, 5 max               |
-| Add glossary entry                    |        | 400      | 100 ea, 4 max              |
-| Glossary review                       |        | 200      | 50 ea, 4 max               |
-| **Totals**                            | 40,000 | 6,550    |                            |
+| **Totals**                            | 40,000 | 5,750    |                            |
 
 That's a lot of ways to earn points! The table below summarizes how the points add up:
 
 |                                      | XP    | % of A+ Grade |
 |--------------------------------------|-------|---------------|
-| Graded (summative evaluation) total  | 32200 | 80.5%         |
-| Pass/Fail (formative assessment)     | 7800  | 19.5%         |
-| Bonus graded total                   | 4000  | 10.0%         |
-| Bonus P/F total                      | 2150  | 5.4%          |
+| Graded (summative evaluation) total  | 32200 | 83.0%         |
+| Pass/Fail (formative assessment)     | 6800  | 17.0%         |
+| Bonus graded total                   | 3500  |  8.8%         |
+| Bonus P/F total                      | 2250  |  5.6%         |
 
 # Schedule
 
