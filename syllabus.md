@@ -17,7 +17,7 @@ September 8 – December 8, 2020
 - [Background & Rationale](#background-and-rationale)
 - [Learning Objectives](#learning-objectives)
 - [Format](#course-format)
-- [Materials](course-materials)
+- [Materials](#course-materials)
 - [Assessment & Evaluation](#assessment-and-evaluation)
 - [Grading](#grading)
 - [Schedule](#schedule)
@@ -85,13 +85,14 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 # Course Format
 This course consists of the following components:
+- [Freely-accessible online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/)
 - Asynchronous online lectures, lessons, and tutorials
 - Optional, synchronous (scheduled/live) check-ins to get guidance from the teaching team
 
 The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.**
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the online textbook and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
 
 ## Check-Ins
 **Participation in live check-ins is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, check-ins are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
