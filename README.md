@@ -8,10 +8,12 @@ This is an online course, which first ran in the summer of 2020. It will also be
 
 ## Summer 2020
 [Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2020s)
+ |
 [Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2020s)
 
 ## Fall 2020
 [Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus)
+ | 
 [Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule)
 
 For more information about this course, see the links at the top of this page.
