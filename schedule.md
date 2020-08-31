@@ -2,6 +2,7 @@
 ### Fall 2020
 
 **Note:** Schedule is subject to change. The course MS Teams site is the official source for due dates for all assessments and evaluations.
+
 | Week   | Class | Date       | Class Activity                       | Lesson                                                                                                                                                                                                                            | Formative Assessments                                                             | Summative Evaluations                                          |
 |--------|-------|------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------|
 | **0**  | 0     | pre-course |                                      | [About This Course](https://dalpsychneuro.github.io/NESC_3505_textbook/1/why.html)                                                                                                                                                |                                                                                   |                                                                |
