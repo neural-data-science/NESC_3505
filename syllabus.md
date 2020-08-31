@@ -2,7 +2,7 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Fall 2020, version 1.0, 2020-08-17
+### Fall 2020, version 1.1, 2020-08-31
 September 8 – December 8, 2020
 
 ### Instructor
@@ -116,6 +116,8 @@ Beyond these basic requirements, this course emphasizes (and will teach you abou
 # Assessment and Evaluation
 Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
+Due dates for all assessment and evaluation components will be posted on Teams.
+
 ## Formative Assessments
 Formative assessments are designed to support you in improving your performance in the class, through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smaller proportion of your grade than evaluations (approximately 20%), but collectively can make a significant difference in your grade.
 
@@ -134,7 +136,7 @@ You will provide constructive reviews of other students' first-draft portfolios.
 ### Meet 'n Greets
 You will earn bonus points by participating in short (5-10 min) online one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of a text-based chat or a video chat. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects. To protect everyone's safety, all students have the ability to block others anonymously, and may discontinue a meeting at any time without penalty. All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
 
-Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required demos should be completed by the end of the second week of class (7 week summer course), or by the end of the first month of class (12 week course).
+Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the second week of class (7 week summer course), or by the end of the first month of class (12 week course).
 
 ## Summative Evaluations
 Summative evaluations comprise the majority of your final grade (approximately 80%). All summative evaluations are graded. Because 20% of your final grade (the formative assessments) are "easy" pass/fail points, you can expect that grading of the summative evaluations will be quite strict.
@@ -158,7 +160,7 @@ Grading (by the teaching team) will be based on a rubric with four components: q
 At the end of every week (7-week course) or two weeks (12-week course) there will be a scheduled, synchronous "Demo Day". You are not required to attend Demo Days synchronously, but they are an opportunity to share and showcase work, ask questions, and generally discuss the demos and course material. Demo days also serve as the deadline for submitting each demo.
 
 ### Portfolio
-One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site. There are also a colection of videos with advice on how to create and format your portfolio online.
+One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
 
 # Grading
 This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate [experience points (XP)](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html#everyone-starts-with-an-f) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
@@ -207,18 +209,16 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | *Projects*                            |        |          |                            |
 | Project 1                             | 6000   |          |                            |
 | Project 2                             | 8000   |          |                            |
-| Project 1 peer assessment             | 500    |          |                            |
-| Project 2 peer assessment             | 500    |          |                            |
 | *Demos*                               |        |          |                            |
 | Demo (best mark)                      | 1500   |          |                            |
 | Demo (2nd best mark)                  | 1500   |          |                            |
-| Demo (3rd best mark)                  | 1500   |          |                            |
-| Demo (4th best mark)                  |        | 500      |                            |
-| Demo (5th best mark)                  |        | 500      |                            |
-| Demo (6th best mark)                  |        | 500      |                            |
+| Demo 3rd best mark                    | 1500   |          |                            |
+| Demo 4th best mark                    |        | 500      |                            |
+| Demo 5th best mark                    |        | 500      |                            |
+| Demo 6th best mark                    |        | 500      |                            |
 | *Portfolio*                           |        |          |                            |
-| Portfolio submission 1                | 1000   |          |                            |
-| Portfolio submission 2                | 3000   |          |                            |
+| Portfolio submission 1                | 500    |          |                            |
+| Portfolio submission 2                | 3500   |          |                            |
 | **Formative Assessments (Pass/Fail)** |        |          |                            |
 | *Datacamp lessons*                    | 5000   |          | (DataCamp XP/10; max 5000) |
 | *Peer Assessments*                    |        |          |                            |
@@ -228,6 +228,8 @@ The table below lists all the "core" and "bonus" opportunities to earn course XP
 | Demos: 4th peer assessment            |        | 100      |                            |
 | Demos: 5th peer assessment            |        | 100      |                            |
 | Demos: 6th peer assessment            |        | 100      |                            |
+| Project 1 peer assessment             | 500    |          |                            |
+| Project 2 peer asessment              | 500    |          |                            |
 | Portfolio v1 peer assessment          | 150    |          |                            |
 | Complete all Peer Assessments         |        | 400      |                            |
 | *Self-Assessments*                    |        |          |                            |
