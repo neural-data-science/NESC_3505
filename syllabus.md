@@ -260,7 +260,7 @@ That's a lot of ways to earn points! The table below summarizes how the points a
 |                                      | XP    | % of A+ Grade |
 |--------------------------------------|-------|---------------|
 | Graded (summative evaluation) total  | 32200 | 83.0%         |
-| Pass/Fail (formative assessment)     | 6800  | 17.0%         |
+| Pass/Fail (formative assessment)     | 7800  | 17.0%         |
 | Bonus graded total                   | 3500  |  8.8%         |
 | Bonus P/F total                      | 2250  |  5.6%         |
 
