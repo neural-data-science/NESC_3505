@@ -1,3 +1,7 @@
+layout: page
+title: "Assignment 1"
+permalink: /Assignments/Assignment_1/
+
 # Assignment 1
 ## Get to Know the NESC 3505 Tech Stack
 
