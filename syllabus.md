@@ -294,8 +294,7 @@ Everyone at Dalhousie is expected to treat others with dignity and respect. The 
 [https://www.dal.ca/dept/university\_secretariat/policies/academic/grading-practices-policy.html](https://www.dal.ca/dept/university\_secretariat/policies/academic/grading-practices-policy.html)
 
 ## Missed or Late Academic Requirements due to Student Absence (policy)
-[https://www.dal.ca/dept/university\_secretariat/policies/academic/missed-or-late-academicrequirements-due-to-student-absence.html
-](https://www.dal.ca/dept/university\_secretariat/policies/academic/missed-or-late-academicrequirements-due-to-student-absence.html)
+[https://www.dal.ca/dept/university_secretariat/policies/academic/missed-or-late-academic-requirements-due-to-student-absence.html](https://www.dal.ca/dept/university_secretariat/policies/academic/missed-or-late-academic-requirements-due-to-student-absence.html)
 
 ## Learning and Support Resources
 
