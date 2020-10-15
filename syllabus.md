@@ -138,6 +138,7 @@ You will earn bonus points by participating in short (5-10 min) online one-on-on
 
 Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the second week of class (7 week summer course), or by the end of the first month of class (12 week course).
 
+
 ## Summative Evaluations
 Summative evaluations comprise the majority of your final grade (approximately 80%). All summative evaluations are graded. Because 20% of your final grade (the formative assessments) are "easy" pass/fail points, you can expect that grading of the summative evaluations will be quite strict.
 
@@ -155,7 +156,7 @@ You will be asked to submit structured peer reviews following each of the two te
 ### Demos
 Based on workflows in Silicon Valley and the tech industry more generally, the idea of Demos is that you can learn a lot from each other — and often, your classmates (who are in the same "boat" as you in terms of learning) can have more sensitivity and shared experience in the learning process than the teaching team. Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, an interesting interview with a data scientist or neuroscientist talking about data science; other resources you found helpful for the class, etc..
 
-Grading (by the teaching team) will be based on a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. In addition, demos can be peer-reviewed (see [Formative Assessments](#demo-peer-assessments), above) based on the same criteria. Note that only three demos are required; you may submit up to four more demos for bonus points.
+Grading (by the teaching team) will be based on a rubric with four components: *quality of presentation*, *quality of work*, *relevance/usefulness of topic*, and *creativity*. In addition, demos can be peer-reviewed (see [Formative Assessments](#demo-peer-assessments), above) based on the same criteria. Note that only three demos are required; you may submit up to four more demos for bonus points.
 
 At the end of every week (7-week course) or two weeks (12-week course) there will be a scheduled, synchronous "Demo Day". You are not required to attend Demo Days synchronously, but they are an opportunity to share and showcase work, ask questions, and generally discuss the demos and course material. Demo days also serve as the deadline for submitting each demo.
 
