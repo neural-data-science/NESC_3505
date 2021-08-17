@@ -2,8 +2,8 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Fall 2021-22, version 2.0, 2021-08-17
-September 7 – December 7, 2021
+### Fall 2020, version 1.1, 2020-08-31
+September 8 – December 8, 2020
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
@@ -32,7 +32,7 @@ Every person at Dalhousie has a right to be respected and safe. We believe inclu
 
 ---
 # Course Description
-An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as cognitive-behavioural research, single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
+An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
 
 ## Prerequisites
 **PSYO 2000**, **PSYO 2501**, and **NESC 2470**, with a minimum grade of B in PSYO 2501. Grades of B+ or better in all three classes are recommended. **No prior programming experience is required**.
@@ -74,7 +74,7 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 ## Soft Skills
 - Demonstrate a professional work ethic
-- Be effective and productive in a hybrid in-person/remote working environment
+- Be effective and productive in a remote working environment
 - Work collaboratively, effectively, and productively in a distributed team
 - Manage projects: manage time and human resources effectively to achieve specific objectives on a stated timeline
 - Peer-review the work of other team members
@@ -87,16 +87,15 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 This course consists of the following components:
 - [Freely-accessible online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/)
 - Asynchronous online lectures, lessons, and tutorials
-- Optional, synchronous (scheduled/live) check-ins via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
-- Weekly in-person lab session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
+- Optional, synchronous (scheduled/live) check-ins to get guidance from the teaching team
 
-The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
+The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.**
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
 
 ## Check-Ins
-**Participation in live check-ins and labs is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
+**Participation in live check-ins is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, check-ins are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
 
 The timing of check-ins will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling check-ins.
 
@@ -120,27 +119,28 @@ Your final grade will be based on a combination of [*formative assessments*](htt
 Due dates for all assessment and evaluation components will be posted on Teams.
 
 ## Formative Assessments
-Formative assessments are designed to support you in improving your performance in the class, through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smaller proportion of your grade than evaluations (10%), but collectively can make a significant difference in your grade.
+Formative assessments are designed to support you in improving your performance in the class, through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smaller proportion of your grade than evaluations (approximately 20%), but collectively can make a significant difference in your grade.
 
-### Online Lessons/Prtactice - DataCamp
-Registered students are provided with free access to the DataCamp massive online learning community. DataCamp lessons are assigned in the schedule to align with the course content. They are meant to reinforce the textbook/lecture material, and provide opportunities to practice coding with immediate feedback.
-
-Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn (see grading table below for details).
-
-Lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you less prepared for future classes and assignments. No points for lessons will be granted after the last day of class.
+### Online Lessons
+Online lessons are to be completed prior to class time. Deadlines are provided online. Each lesson is graded on a pass/fail basis, based on whether you complete the lesson or not. Lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you unprepared for future classes and assignments. No points for lessons will be granted after the last day of class.
 
 ### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. These are assigned and submitted via Teams.
+You will submit regular written assessments of your own learning progress over the term. Each should be 250-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course.
+
+### Demo Peer Assessments
+You will provide a constructive review of demos produced by other students in the class. This will be done using a rubric with four components: quality of presentation, quality of work, relevance/usefulness of topic, and creativity. You will also have the option to provide specific, written feedback if you wish. The aim of these assessments is to help your fellow students make better demos (which will in turn benefit you and the rest of the class). Peer assessments are due within 1 week of the demo's being posted (so, 1 week after the demo day that it's submitted for). **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Since your feedback is intended to help improve the quality of demos, it's not useful if it's not timely.
+
+### Portfolio Peer Assessment
+You will provide constructive reviews of other students' first-draft portfolios. This has two purposes. One is to get feedback from classmates on your work. The other is for you to get a sense of how other people developed their portfolio, which may provide you with inspiration for your final version. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The peer assessments you receive will not affect your portfolio grade, but are meant only as constructive feedback for you.
 
 ### Meet 'n Greets
-You will earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
+You will earn bonus points by participating in short (5-10 min) online one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of a text-based chat or a video chat. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects. To protect everyone's safety, all students have the ability to block others anonymously, and may discontinue a meeting at any time without penalty. All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
 
-All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. If a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
+Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the second week of class (7 week summer course), or by the end of the first month of class (12 week course).
 
-Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the first month of class.
 
 ## Summative Evaluations
-Summative evaluations comprise the majority of your final grade (approximately 90%). All summative evaluations are graded. Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict.
+Summative evaluations comprise the majority of your final grade (approximately 80%). All summative evaluations are graded. Because 20% of your final grade (the formative assessments) are "easy" pass/fail points, you can expect that grading of the summative evaluations will be quite strict.
 
 For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
