@@ -4,14 +4,19 @@
 
 <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505">View course description on Dal.ca</a>
 
-This is an online course, which first ran in the summer of 2020. It will also be offered in Fall 2020-21.
+This is an online course, which first ran in the summer of 2020.
 
 ## Summer 2020
 [Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2020s)
  |
 [Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2020s)
 
-## Fall 2020
+## Fall 2020-21
+[Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2020f)
+ | 
+[Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2020f)
+
+## Fall 2021-22
 [Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus)
  | 
 [Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule)
