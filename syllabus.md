@@ -2,8 +2,10 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Fall 2021-22, version 2.0, 2021-08-17
+### Fall 2021-22
 September 7 – December 7, 2021
+
+#### version 0.1, 2021-08-17
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
