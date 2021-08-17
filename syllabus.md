@@ -108,26 +108,31 @@ That said, learning can sometimes go a lot faster when you ask questions. We enc
 The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use directmessaging on Teams.
 
 # Course Materials
-All necessary materials will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
+All necessary materials (including the textbook) will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
 
 **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
 
 Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://dalpsychneuro.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
-Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
+Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each. 
+
+The items you're graded on are divided into two categories: 
+- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smal proportion of your grade (10%), but they are all graded as pass/fail, so you get the full XP for completing them. Thus collectively they can make a significant difference in your grade. 
+- **Summative evaluations** comprise the majority (90%) of your final grade, and are meant to "summarize" your learning. All summative evaluations are graded.
+
+The grading system is built to be **inclusive and adaptive** to the needs and life circumstances of individual students. While some assessments are not accepted after the due date, and some evaluations have late penalties, we recognize that missed or late assignments sometimes happen for excusable reasons. Rather than making a big deal about your proving to us that your reason is legitimate, we instead provide options *built right into the course* for you to make up lost points in other ways, including skipping a missed assignment in some cases, or having your worst mark on certain items (like assignments) be worth much fewer points. Because there are a variety of bonus points on offer, there are actually more opportunities to earn points than you need to get an A+ in the course. This means that you can, within reason, pick and choose how to achieve your desired grade. That said, your grade is intended to reflect the degree to which you have met the learning objectives, so you do need to demonstrate competence with regard to all of the objectives.
 
 Due dates for all assessment and evaluation components will be posted on Teams.
 
 ## Formative Assessments
-Formative assessments are designed to support you in improving your performance in the class, through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smaller proportion of your grade than evaluations (10%), but collectively can make a significant difference in your grade.
 
-### Online Lessons/Prtactice - DataCamp
+### Online Lessons/Prtactice: DataCamp
 Registered students are provided with free access to the DataCamp massive online learning community. DataCamp lessons are assigned in the schedule to align with the course content. They are meant to reinforce the textbook/lecture material, and provide opportunities to practice coding with immediate feedback.
 
-Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn (see grading table below for details).
+Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn. Your earned DataCamp XP (up to 3500 XP) are divided by 7 to determine your DataCamp grade for this class.
 
-Lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you less prepared for future classes and assignments. No points for lessons will be granted after the last day of class.
+DataCamp lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you less prepared for future classes and assignments. No points for lessons will be granted after the last day of classes in the term.
 
 ### Self-Assessments
 You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. These are assigned and submitted via Teams.
@@ -140,12 +145,11 @@ All students are expected to abide by [Dalhousie University's Code of Student Co
 Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the first month of class.
 
 ## Summative Evaluations
-Summative evaluations comprise the majority of your final grade (approximately 90%). All summative evaluations are graded. Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict.
 
-For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
+Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
 ### Assignments
-These are coding assignments that you will complete, based on neuroscience data. There is an assignment due every week, except weeks when projects are due. Scheduled class time is the only time you will be able to get help on the assignments from the teaching team. There will be 6 assignments over the term. You must submit a minimum of 4 of these, but bonus points will be awarded for submitting 5 or 6.
+These are coding assignments that you will complete, based on neuroscience data. There is an assignment due every week, except weeks when projects are due. Scheduled class time is the only time you will be able to get help on the assignments from the teaching team. There will be 5 assignments over the term. The first is mandatory; of the remaining four, the one on which you get the worst grade will be counted for substantially less points than the others (see table below). This allows you to drop your worst mark, or miss submitting one assignment without penalty.
 
 ### Projects
 There are 2 [team-based](https://dalpsychneuro.github.io/NESC_3505_textbook/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
@@ -153,117 +157,68 @@ There are 2 [team-based](https://dalpsychneuro.github.io/NESC_3505_textbook/1/te
 ### Project Peer Assessments
 You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
 
-### Demos
-Based on workflows in Silicon Valley and the tech industry more generally, the idea of Demos is that you can learn a lot from each other — and often, your classmates (who are in the same "boat" as you in terms of learning) can have more sensitivity and shared experience in the learning process than the teaching team. Demos are short demonstrations that you prepare to teach your fellow students. They can be videos (1-3 min) or written (500-1000 words). The goal is to share some insight or discovery with other students. This could be how you approached and solved some problem in an assignment, a review of a website, or a good YouTube tutorial, an interesting interview with a data scientist or neuroscientist talking about data science; other resources you found helpful for the class, etc..
+#### Dealing with unequal contributions
+Submitting the peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each tem member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project. 
 
-Grading (by the teaching team) will be based on a rubric with four components: *quality of presentation*, *quality of work*, *relevance/usefulness of topic*, and *creativity*. In addition, demos can be peer-reviewed (see [Formative Assessments](#demo-peer-assessments), above) based on the same criteria. Note that only three demos are required; you may submit up to four more demos for bonus points.
+For example, imagine a team of 4 members: A, B, C, and D. D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively (where equal work would have been 25% each). The team project receives a grade of 80/100 points. In this case, D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points. 
 
-At the end of every week (7-week course) or two weeks (12-week course) there will be a scheduled, synchronous "Demo Day". You are not required to attend Demo Days synchronously, but they are an opportunity to share and showcase work, ask questions, and generally discuss the demos and course material. Demo days also serve as the deadline for submitting each demo.
+Please note that this is a "worst case" scanario, although it has happened in the past. We much prefer it if issues are identified before things get this bad. Teams should first try to contact the team member who seems to be doing less work, and discuss the issue with them to try to find a resolution. Secondly, *before the project deadline*, teams should contact the instructor to discuss the problem. 
+
+If you are on a team and are having trouble completing your fair share of the work, likewise please first discuss this with your team members, and if you can't resolve it that way, please contact the instructor to discuss — ideally well before the project deadline. The purpose of this mechanism is to prevent students from "freeloading" on the work of others, but it is *not* meant to penalize people who are experiencing genuine struggles of any kind. The instructor is eager to support students who are struggling in any way.
 
 ### Portfolio
-One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
+One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised versoin after feedback!
+
+Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
+
+### Demos
+Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio. 
+
+A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content. 
+
+Possible demo topics are discussed, with examples, in the [textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/1/demos).
+
+Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*. 
+
 
 # Grading
-This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate [experience points (XP)](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html#everyone-starts-with-an-f) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000. 
 
-| Level | XP     | letter grade |
-|-------|--------|--------------|
-| 1     | 100    |              |
-| 2     | 400    |              |
-| 3     | 900    |              |
-| 4     | 1,600  |              |
-| 5     | 2,500  |              |
-| 6     | 3,600  |              |
-| 7     | 4,900  |              |
-| 8     | 6,400  |              |
-| 9     | 8,100  |              |
-| 10    | 10,000 |              |
-| 11    | 12,100 | D            |
-| 12    | 14,400 | C-           |
-| 13    | 16,900 | C            |
-| 14    | 19,600 | C+           |
-| 15    | 22,500 | B-           |
-| 16    | 25,600 | B            |
-| 17    | 28,900 | B+           |
-| 18    | 32,400 | A-           |
-| 19    | 36,100 | A            |
-| 20    | 40,000 | A+           |
 
-While on the one hand this might sound a bit gimmicky, it's actually a really powerful re-framing of the concepts of assessment and evaluation in a course. This framing also makes assessment more authentic, in the sense that you are receiving credit for achieving specific, meaningful learning outcomes. It also recognizes that throughout the course, you are continuously building knowledge, experience, and skills.
+## How to Earn Points
+The table below lists all the "core" and "bonus" opportunities to earn points in this course.
 
-The XP system is also built to be inclusive and adaptive to the need and life circumstances of individual students. While some assessments are not accepted after the due date, and some evaluations have late penalties, we recognize that missed or late assignments sometimes happen for excusable reasons. Rather than making a big deal about your proving to us that your reason is legitimate, we instead provide options for you to make up lost points in other ways. This also allows you to compensate for getting a lower grade on an assessment(s) than desired.
+| **Summative Evaluations (graded)**       | **Points** | **bonus** |
+|------------------------------------------|--------|--------------|
+| *Assignments*                            |        |              |
+| Assignment 1                             | 500    |              |
+| Assignments 2-5, 3 best marks @ 1000     | 3000   |              |
+| Assignments 2-5, worst mark              |        | 250          |
+| *Projects*                               |        |              |
+| Project 1                                | 1500   |              |
+| Project 2                                | 1500   |              |
+| *Demos*                                  |        |              |
+| Demos, best 2 @ 500                      | 1000   |              |
+| Demo 3rd best mark                       |        | 100          |
+| *Portfolio*                              |        |              |
+| Portfolio submission 1                   |        | 100          |
+| Portfolio submission 2                   | 1500   |              |
+| **Formative Assessments (Pass/Fail)**    |        |              |
+| *Datacamp lessons*                       | 500    |              |
+| *Peer Assessments*                       |        |              |
+| Project 1 peer assessment                | 100    |              |
+| Project 2 peer asessment                 | 100    |              |
+| *Self-Assessments*                       |        |              |
+| Self-assessments 6 @ 50                  | 300    |              |
+| Self-assessment skip one or bonus points |        | 25           |
+| *Meet 'n Greets*                         |        |              |
+| Meet 'n Greets - 5 @ 25                  |        | 125          |
+| *Other Bonus Points*                     |        |              |
+| Did not ask for extension all term       |        | 200          |
+| Project 1 team size > 3 people           |        | 100          |
+| Project 2 team size > 3 people           |        | 100          |
+| **Totals**                               | **10000**  | **1000** |
 
-Because there are a variety of bonus points on offer, there are actually more opportunities to earn XP than you need to get an A+ in the course. This means that you can, within reason, pick and choose how to achieve your desired grade. All that said, XP (and your grade) are intended to reflect the degree to which you have met the learning objectives, so you do need to demonstrate competence with regard to all of the objectives.
-
-## How to Earn XP
-The table below lists all the "core" and "bonus" opportunities to earn course XP.
-
-| **Summative Evaluations (graded)**    | XP     | Bonus XP | Notes                      |
-|---------------------------------------|--------|----------|----------------------------|
-| *Assignments*                         |        |          |                            |
-| Assignment 1                          | 700    |          |                            |
-| Assignments 2-6, 2nd best             | 3000   |          |                            |
-| Assignments 2-6, 3rd best             | 3000   |          |                            |
-| Assignments 2-6, 4th best             | 3000   |          |                            |
-| Assignments 2-6, 5th best             |        | 1000     |                            |
-| Assignments 2-6, 6th best             |        | 1000     |                            |
-| *Projects*                            |        |          |                            |
-| Project 1                             | 6000   |          |                            |
-| Project 2                             | 8000   |          |                            |
-| *Demos*                               |        |          |                            |
-| Demo (best mark)                      | 1500   |          |                            |
-| Demo (2nd best mark)                  | 1500   |          |                            |
-| Demo 3rd best mark                    | 1500   |          |                            |
-| Demo 4th best mark                    |        | 500      |                            |
-| Demo 5th best mark                    |        | 500      |                            |
-| Demo 6th best mark                    |        | 500      |                            |
-| *Portfolio*                           |        |          |                            |
-| Portfolio submission 1                | 500    |          |                            |
-| Portfolio submission 2                | 3500   |          |                            |
-| **Formative Assessments (Pass/Fail)** |        |          |                            |
-| *Datacamp lessons*                    | 5000   |          | (DataCamp XP/10; max 5000) |
-| *Peer Assessments*                    |        |          |                            |
-| Demos: 1st peer assessment            | 100    |          |                            |
-| Demos: 2nd peer assessment            | 100    |          |                            |
-| Demos: 3rd peer assessment            | 100    |          |                            |
-| Demos: 4th peer assessment            |        | 100      |                            |
-| Demos: 5th peer assessment            |        | 100      |                            |
-| Demos: 6th peer assessment            |        | 100      |                            |
-| Project 1 peer assessment             | 500    |          |                            |
-| Project 2 peer asessment              | 500    |          |                            |
-| Portfolio v1 peer assessment          | 150    |          |                            |
-| Complete all Peer Assessments         |        | 400      |                            |
-| *Self-Assessments*                    |        |          |                            |
-| Self-assessment 1                     | 150    |          |                            |
-| Self-assessment 2                     | 150    |          |                            |
-| Self-assessment 3                     | 150    |          |                            |
-| Self-assessment 4                     | 150    |          |                            |
-| Self-assessment 5                     | 150    |          |                            |
-| Self-assessment 6                     | 150    |          |                            |
-| Self-assessment 7                     | 150    |          |                            |
-| Complete all self-assessments         |        | 400      |                            |
-| *Meet 'n Greets*                      |        |          |                            |
-| Meet 'n Greet 1                       | 100    |          |                            |
-| Meet 'n Greet 2                       | 100    |          |                            |
-| Meet 'n Greet 3                       | 100    |          |                            |
-| Meet 'n Greet 4                       |        | 100      |                            |
-| Meet 'n Greet 5                       |        | 100      |                            |
-| Meet 'n Greet 6                       |        | 100      |                            |
-| *Other Bonus Points*                  |        |          |                            |
-| Did not ask for extension bonus       |        | 200      |                            |
-| Project 1 team size > 3 people        |        | 200      |                            |
-| Project 2 team size > 3 people        |        | 200      |                            |
-| Typo reports                          |        | 250      | 50 ea, 5 max               |
-| **Totals**                            | 40,000 | 5,750    |                            |
-
-That's a lot of ways to earn points! The table below summarizes how the points add up:
-
-|                                      | XP    | % of A+ Grade |
-|--------------------------------------|-------|---------------|
-| Graded (summative evaluation) total  | 32200 | 83.0%         |
-| Pass/Fail (formative assessment)     | 7800  | 17.0%         |
-| Bonus graded total                   | 3500  |  8.8%         |
-| Bonus P/F total                      | 2250  |  5.6%         |
 
 # Schedule
 
