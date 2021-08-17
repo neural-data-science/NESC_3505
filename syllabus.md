@@ -87,18 +87,22 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 # Course Format
 This course consists of the following components:
-- [Freely-accessible online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/)
-- Asynchronous online lectures, lessons, and tutorials
-- Optional, synchronous (scheduled/live) check-ins via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
-- Weekly in-person lab session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
+- [Freely-accessible online **textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook/)
+- Asynchronous **online lectures**
+- Optional, synchronous (scheduled/live) **check-ins** via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
+- Weekly in-person **lab** session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
+- **DataCamp**, a massive online education platform for data science, with lessons and practice opportunities
 
 The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
 
 ## Online Lectures and Tutorials
 This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
 
+## Labs
+Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. Participation in these is optional but recommended.
+
 ## Check-Ins
-**Participation in live check-ins and labs is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
+**Participation in live check-ins is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
 
 The timing of check-ins will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling check-ins.
 
