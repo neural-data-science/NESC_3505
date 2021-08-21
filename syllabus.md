@@ -233,7 +233,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional. However, due to the flipped classroom model, scheduled class times are the only time when you can get live help with the course material. However, if you have other issues you need to discuss (e.g., personal reasons that make it difficult for you to succeed in the class), you may contact the instructor by email to discuss the matter and/or set up a meeting.
+Attendance of scheduled class meetings (in-person or online) is optional. However, due to the flipped classroom model, scheduled class times are the only time when you can get live help with the course material. However, if you have other issues you need to discuss (e.g., personal reasons that make it difficult for you to succeed in the class), you may contact the instructor by email to discuss the matter and/or set up a meeting.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
