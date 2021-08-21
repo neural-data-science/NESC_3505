@@ -5,7 +5,7 @@
 ### Fall 2021-22
 September 7 – December 7, 2021
 
-#### version 0.1, 2021-08-17
+#### version 0.2, 2021-08-21
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
