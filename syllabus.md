@@ -121,10 +121,10 @@ All necessary materials (including the textbook) will be provided online, throug
 Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://dalpsychneuro.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
-Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each. 
+Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
-The items you're graded on are divided into two categories: 
-- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smal proportion of your grade (10%), but they are all graded as pass/fail, so you get the full XP for completing them. Thus collectively they can make a significant difference in your grade. 
+The items you're graded on are divided into two categories:
+- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a smal proportion of your grade (10%), but they are all graded as pass/fail, so you get the full XP for completing them. Thus collectively they can make a significant difference in your grade.
 - **Summative evaluations** comprise the majority (90%) of your final grade, and are meant to "summarize" your learning. All summative evaluations are graded.
 
 The grading system is built to be **inclusive and adaptive** to the needs and life circumstances of individual students. While some assessments are not accepted after the due date, and some evaluations have late penalties, we recognize that missed or late assignments sometimes happen for excusable reasons. Rather than making a big deal about your proving to us that your reason is legitimate, we instead provide options *built right into the course* for you to make up lost points in other ways, including skipping a missed assignment in some cases, or having your worst mark on certain items (like assignments) be worth much fewer points. Because there are a variety of bonus points on offer, there are actually more opportunities to earn points than you need to get an A+ in the course. This means that you can, within reason, pick and choose how to achieve your desired grade. That said, your grade is intended to reflect the degree to which you have met the learning objectives, so you do need to demonstrate competence with regard to all of the objectives.
@@ -134,9 +134,9 @@ Due dates for all assessment and evaluation components will be posted on Teams.
 ## Formative Assessments
 
 ### Online Lessons/Prtactice: DataCamp
-Registered students are provided with free access to the DataCamp massive online learning community. DataCamp lessons are assigned in the schedule to align with the course content. They are meant to reinforce the textbook/lecture material, and provide opportunities to practice coding with immediate feedback.
+Registered students are provided with free access to the DataCamp massive online learning community. A number of DataCamp lessons are assigned in the schedule to align with the course content. They are meant to reinforce the textbook/lecture material, and provide opportunities to practice coding with immediate feedback. As well, there are several optional DataCamp lessons that you'll see suggested when you log onto your DataCamp account. You can get course credit for completing both the lessons assigned in the schedule, and any additional lessons on DataCamp that interest you (even ones not suggested by the instructor - choose your own adventure!)
 
-Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn. Your earned DataCamp XP (up to 3500 XP) are divided by 7 to determine your DataCamp grade for this class.
+Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn. Your earned DataCamp XP (up to 35,000 XP) are divided by 70 to determine your DataCamp grade for this class.
 
 DataCamp lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you less prepared for future classes and assignments. No points for lessons will be granted after the last day of classes in the term.
 
@@ -151,7 +151,6 @@ All students are expected to abide by [Dalhousie University's Code of Student Co
 Meet 'n greets should ideally occur early in the course. You will receive 50 bonus points per meet 'n greet, up to 125 points (5 meetings). The meet 'n greets should be completed by the end of the first month of class, and credit will not be given for meetings more than 4 weeks after the start of the term.
 
 ## Summative Evaluations
-
 Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
 ### Assignments
@@ -178,17 +177,17 @@ One of the outcomes of this class is that you will have an online portfolio demo
 Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
 
 ### Demos
-Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio. 
+Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
 
-A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content. 
+A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content.
 
 Possible demo topics are discussed, with examples, in the [textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/1/demos).
 
-Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*. 
+Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
 
 
 # Grading
-This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000. 
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000.
 
 
 ## How to Earn Points
