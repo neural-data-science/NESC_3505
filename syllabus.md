@@ -86,12 +86,12 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 - Use, and communicate the value of, open and reproducible code and data
 
 # Course Format
-This course consists of the following components:
+This course employs a hybrid online/in-person format, although it can be completed entirely online for people who are unable to attend the weekly lab sessions. The course consists of the following components:
 - [Freely-accessible online **textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook/)
 - Asynchronous **online lectures**
 - Optional, synchronous (scheduled/live) **check-ins** via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
-- Weekly in-person **lab** session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
-- **DataCamp**, a massive online education platform for data science, with lessons and practice opportunities
+- Weekly **in-person lab** session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
+- Online tutorials and practice through **DataCamp**, a massive online education platform for data science
 
 The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
 
