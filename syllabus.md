@@ -5,7 +5,7 @@
 ### Fall 2021-22
 September 7 – December 7, 2021
 
-#### version 0.1, 2021-08-17
+#### version 1.0 2021-09-01
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
@@ -14,6 +14,7 @@ September 7 – December 7, 2021
 [Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
 
 ---
+
 ## Contents:
 - [Course Description](#course-description)
 - [Background & Rationale](#background-and-rationale)
@@ -26,6 +27,7 @@ September 7 – December 7, 2021
 - [Policies](#policies)
 
 ---
+
 ## Recognition of Mi’kmaq Territory
 Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people. The Elders in Residence program provides students with access to First Nations elders for guidance, counsel and support. Visit the [Indigenous Student Centre](https://www.dal.ca/campus_life/communities/indigenous.html) or contact the programs at [elders@dal.ca](mailto:elders@dal.ca).
 
