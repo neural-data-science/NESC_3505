@@ -106,7 +106,7 @@ Weekly lab sessions are held in-person and will be used for tutorial by the teac
 ## Check-Ins
 **Participation in live check-ins is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
 
-The timing of check-ins will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling check-ins.
+Check-ins will occur form 2:30-3:00 PM on Mondays and Wednesdays, via MS Teams.
 
 ## Getting Help
 One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
