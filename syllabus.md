@@ -191,40 +191,39 @@ Grading (by the teaching team) will be based on a rubric with four components: *
 # Grading
 This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000.
 
-
 ## How to Earn Points
 The table below lists all the "core" and "bonus" opportunities to earn points in this course.
 
-| **Summative Evaluations (graded)**       | **Points** | **bonus** |
-|------------------------------------------|--------|--------------|
-| *Assignments*                            |        |              |
-| Assignment 1                             | 500    |              |
-| Assignments 2-5, 3 best marks @ 1000     | 3000   |              |
-| Assignments 2-5, worst mark              |        | 250          |
-| *Projects*                               |        |              |
-| Project 1                                | 1500   |              |
-| Project 2                                | 1500   |              |
-| *Demos*                                  |        |              |
-| Demos, best 2 @ 500                      | 1000   |              |
-| Demo 3rd best mark                       |        | 100          |
-| *Portfolio*                              |        |              |
-| Portfolio submission 1                   |        | 100          |
-| Portfolio submission 2                   | 1500   |              |
-| **Formative Assessments (Pass/Fail)**    |        |              |
-| *Datacamp lessons*                       | 500    |              |
-| *Peer Assessments*                       |        |              |
-| Project 1 peer assessment                | 100    |              |
-| Project 2 peer asessment                 | 100    |              |
-| *Self-Assessments*                       |        |              |
-| Self-assessments 6 @ 50                  | 300    |              |
-| Self-assessment skip one or bonus points |        | 25           |
-| *Meet 'n Greets*                         |        |              |
-| Meet 'n Greets - 5 @ 25                  |        | 125          |
-| *Other Bonus Points*                     |        |              |
-| Did not ask for extension all term       |        | 200          |
-| Project 1 team size > 3 people           |        | 100          |
-| Project 2 team size > 3 people           |        | 100          |
-| **Totals**                               | **10000**  | **1000** |
+| **Summative Evaluations (graded)**                                          | **XP** | **bonus XP** |
+|-----------------------------------------------------------------------------|--------|--------------|
+| *Assignments*                                                               |        |              |
+| Assignment 1                                                                | 500    |              |
+| Assignments 2-5, 3 best marks @ 1000                                        | 3000   |              |
+| Assignments 2-5, worst mark                                                 |        | 250          |
+| *Projects*                                                                  |        |              |
+| Project 1                                                                   | 1500   |              |
+| Project 2                                                                   | 1500   |              |
+| *Demos*                                                                     |        |              |
+| Demos, best 2 @ 500 [rubric]([rubric](rubrics#Demo-Rubric)                  | 1000   |              |
+| Demo 3rd best mark                                                          |        | 100          |
+| *Portfolio*                                                                 |        |              |
+| Portfolio submission 1 [rubric](rubrics#Portfolio-Submission-1-Rubric)      |        | 100          |
+| Portfolio submission 2 [rubric](rubrics#Portfolio-fFinal-Submission-Rubric) | 1500   |              |
+| **Formative Assessments (Pass/Fail)**                                       |        |              |
+| *Datacamp lessons*                                                          | 500    |              |
+| *Peer Assessments*                                                          |        |              |
+| Project 1 peer assessment                                                   | 100    |              |
+| Project 2 peer asessment                                                    | 100    |              |
+| *Self-Assessments*                                                          |        |              |
+| Self-assessments 6 @ 50                                                     | 300    |              |
+| Self-assessment skip one or bonus points                                    |        | 25           |
+| *Meet 'n Greets*                                                            |        |              |
+| Meet 'n Greets - 5 @ 25                                                     |        | 125          |
+| *Other Bonus Points*                                                        |        |              |
+| Did not ask for extension bonus                                             |        | 200          |
+| Project 1 team size > 3 people                                              |        | 100          |
+| Project 2 team size > 3 people                                              |        | 100          |
+| **Totals**                                                                  | 10000  | 1000         |
 
 
 # Schedule
