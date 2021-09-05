@@ -189,7 +189,7 @@ Grading (by the teaching team) will be based on a rubric with four components: *
 
 
 # Grading
-This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000.
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000. Your grade is based on the percentage of 10,000 points that you earn (including bonus points).
 
 ## How to Earn Points
 The table below lists all the "core" and "bonus" opportunities to earn points in this course.
