@@ -210,7 +210,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Portfolio submission 1 ([rubric](rubrics#portfolio-submission-1-rubric))     |        | 100          |
 | Portfolio submission 2 ([rubric](rubrics#portfolio-final-submission-rubric)) | 1500   |              |
 | **Formative Assessments (Pass/Fail)**                                       |        |              |
-| ***Datacamp lessons*                                                          | 500    |              |
+| ***Datacamp lessons***                                                          | 500    |              |
 | ***Peer Assessments***                                                          |        |              |
 | Project 1 peer assessment                                                   | 100    |              |
 | Project 2 peer assessment                                                    | 100    |              |
