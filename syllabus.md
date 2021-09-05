@@ -196,30 +196,30 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 
 | **Summative Evaluations (graded)**                                          | **XP** | **bonus XP** |
 |-----------------------------------------------------------------------------|--------|--------------|
-| *Assignments*                                                               |        |              |
+| ***Assignments***                                                           |        |              |
 | Assignment 1                                                                | 500    |              |
 | Assignments 2-5, 3 best marks @ 1000                                        | 3000   |              |
 | Assignments 2-5, worst mark                                                 |        | 250          |
-| *Projects*                                                                  |        |              |
+| ***Projects***                                                                  |        |              |
 | Project 1                                                                   | 1500   |              |
 | Project 2                                                                   | 1500   |              |
-| *Demos*                                                                     |        |              |
+| ***Demos***                                                                    |        |              |
 | Demos, best 2 @ 500 (([rubric](rubrics#demo-rubric))                        | 1000   |              |
 | Demo 3rd best mark                                                          |        | 100          |
-| *Portfolio*                                                                 |        |              |
+| ***Portfolio***                                                                 |        |              |
 | Portfolio submission 1 ([rubric](rubrics#portfolio-submission-1-rubric))     |        | 100          |
 | Portfolio submission 2 ([rubric](rubrics#portfolio-final-submission-rubric)) | 1500   |              |
 | **Formative Assessments (Pass/Fail)**                                       |        |              |
-| *Datacamp lessons*                                                          | 500    |              |
-| *Peer Assessments*                                                          |        |              |
+| ***Datacamp lessons*                                                          | 500    |              |
+| ***Peer Assessments***                                                          |        |              |
 | Project 1 peer assessment                                                   | 100    |              |
-| Project 2 peer asessment                                                    | 100    |              |
-| *Self-Assessments*                                                          |        |              |
+| Project 2 peer assessment                                                    | 100    |              |
+| ***Self-Assessments***                                                          |        |              |
 | Self-assessments 6 @ 50                                                     | 300    |              |
 | Self-assessment skip one or bonus points                                    |        | 25           |
-| *Meet 'n Greets*                                                            |        |              |
+| ***Meet 'n Greets***                                                            |        |              |
 | Meet 'n Greets - 5 @ 25                                                     |        | 125          |
-| *Other Bonus Points*                                                        |        |              |
+| ***Other Bonus Points***                                                        |        |              |
 | Did not ask for extension bonus                                             |        | 200          |
 | Project 1 team size > 3 people                                              |        | 100          |
 | Project 2 team size > 3 people                                              |        | 100          |
