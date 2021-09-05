@@ -204,11 +204,11 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Project 1                                                                   | 1500   |              |
 | Project 2                                                                   | 1500   |              |
 | *Demos*                                                                     |        |              |
-| Demos, best 2 @ 500 [rubric]([rubric](rubrics#demo-rubric)                  | 1000   |              |
+| Demos, best 2 @ 500 (([rubric](rubrics#demo-rubric))                        | 1000   |              |
 | Demo 3rd best mark                                                          |        | 100          |
 | *Portfolio*                                                                 |        |              |
-| Portfolio submission 1 [rubric](rubrics#Portfolio-Submission-1-Rubric)      |        | 100          |
-| Portfolio submission 2 [rubric](rubrics#Portfolio-fFinal-Submission-Rubric) | 1500   |              |
+| Portfolio submission 1 ([rubric](rubrics#portfolio-submission-1-rubric))     |        | 100          |
+| Portfolio submission 2 ([rubric](rubrics#portfolio-final-submission-rubric)) | 1500   |              |
 | **Formative Assessments (Pass/Fail)**                                       |        |              |
 | *Datacamp lessons*                                                          | 500    |              |
 | *Peer Assessments*                                                          |        |              |
