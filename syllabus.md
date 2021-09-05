@@ -204,7 +204,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Project 1                                                                   | 1500   |              |
 | Project 2                                                                   | 1500   |              |
 | ***Demos***                                                                    |        |              |
-| Demos, best 2 @ 500 (([rubric](rubrics#demo-rubric))                        | 1000   |              |
+| Demos, best 2 @ 500 ([rubric](rubrics#demo-rubric))                        | 1000   |              |
 | Demo 3rd best mark                                                          |        | 100          |
 | ***Portfolio***                                                                 |        |              |
 | Portfolio submission 1 ([rubric](rubrics#portfolio-submission-1-rubric))     |        | 100          |
