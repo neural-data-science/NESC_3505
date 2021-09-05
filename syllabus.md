@@ -5,7 +5,7 @@
 ### Fall 2021-22
 September 7 – December 7, 2021
 
-#### version 1.0 2021-09-01
+#### version 1.1 2021-09-04
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
@@ -176,7 +176,7 @@ If you are on a team and are having trouble completing your fair share of the wo
 ### Portfolio
 One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised version after feedback!
 
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
+Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
 
 ### Demos
 Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
