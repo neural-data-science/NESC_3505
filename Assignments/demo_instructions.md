@@ -1,0 +1,1 @@
+Submit your demo via the Class Notebook under the appropriate tab (Demo #), with the note name as your name. Your submission can be within a notebook, or the notebook can contain a link to your submission hosted elsewhere (e.g., Stream, YouTube, GitHub)
