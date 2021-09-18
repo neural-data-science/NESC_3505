@@ -227,7 +227,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Did not ask for extension bonus                                             |        | 200          |
 | Project 1 team size > 3 people                                              |        | 100          |
 | Project 2 team size > 3 people                                              |        | 100          |
-| **Totals**                                                                  | 10000  | 1000         |
+| **Totals**                                                                  | 13333  | 1000         |
 
 
 # Schedule
