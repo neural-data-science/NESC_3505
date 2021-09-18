@@ -12,6 +12,7 @@ Developed and taught by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%
 [Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule)
  |
 [Grad Student version](https://dalpsychneuro.github.io/NESC_3505/syllabus_5001)
+
 ---
 
 ## Past Versions of the Course
