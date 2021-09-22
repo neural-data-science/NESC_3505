@@ -183,8 +183,6 @@ Demos are an opportunity for you to explore the world of neural data science, an
 
 A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content.
 
-Possible demo topics are discussed, with examples, in the [textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/1/demos).
-
 Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
 
 
