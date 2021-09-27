@@ -181,7 +181,7 @@ Grading will be according to a rubric with five components: quantity of samples;
 ### Demos
 Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
 
-A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content.
+A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content. For more info and some guidance on demos, go [here](demos).
 
 Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
 
