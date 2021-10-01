@@ -98,15 +98,13 @@ This course employs a hybrid online/in-person format, although it can be complet
 The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
 
 ## Labs
 Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. Participation in these is optional but recommended.
 
 ## Check-Ins
 **Participation in live check-ins is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
-
-Check-ins will occur form 2:30-3:00 PM on Mondays and Wednesdays, via MS Teams.
 
 ## Getting Help
 One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
@@ -232,7 +230,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional. However, due to the flipped classroom model, scheduled class times are the only time when you can get live help with the course material. However, if you have other issues you need to discuss (e.g., personal reasons that make it difficult for you to succeed in the class), you may contact the instructor by email to discuss the matter and/or set up a meeting.
+Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor on Teams outside of this time for help, but response times will be variable.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
