@@ -89,7 +89,7 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 # Course Format
 This course employs a hybrid online/in-person format, although it can be completed entirely online for people who are unable to attend the weekly lab sessions. The course consists of the following components:
-- [Freely-accessible online **textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook/)
+- [Freely-accessible online **textbook**](https://neuraldatascience.io/)
 - Asynchronous **online lectures**
 - Optional, synchronous (scheduled/live) **check-ins** via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
 - Weekly **in-person lab** session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
