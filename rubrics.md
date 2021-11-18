@@ -70,6 +70,10 @@ Some examples of how this works:
 
 ## Portfolio Submission 1 Rubric
 
+One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised version after feedback!
+
+Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
+
 ### Quantity
 
 | Score | Criteria |

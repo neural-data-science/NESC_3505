@@ -98,20 +98,19 @@ This course employs a hybrid online/in-person format, although it can be complet
 The "home base" for this class will be a [Microsoft Teams](https://neuraldatascience.io/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://neuraldatascience.io/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
+This course employs a “flipped classroom” model. The primary course matierial is the [online textbook](https://neuraldatascience.io/), and video walkthroughs of the lessons in the textbook on the course [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp). These largely involve writing code. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
 
 ## Labs
 Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. Participation in these is optional but recommended.
-
-## Check-Ins
-**Participation in live check-ins is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
 
 ## Getting Help
 One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neuraldatascience.io/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
-The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use direct messaging on Teams.
+The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use direct messaging on Teams. 
+
+There are no formal instructor office hours for this course. If you wish to speak with the instructor or TA, just contact them via Teams and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
 
 # Course Materials
 All necessary materials (including the textbook) will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
@@ -174,7 +173,9 @@ If you are on a team and are having trouble completing your fair share of the wo
 ### Portfolio
 One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised version after feedback!
 
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
+Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
+
+Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://dalpsychneuro.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://dalpsychneuro.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
 
 ### Demos
 Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
