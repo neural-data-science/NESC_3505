@@ -108,7 +108,7 @@ One of the course learning objectives is "Extend your skills using online resour
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
-The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use direct messaging on Teams. 
+The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use direct messaging on Teams.
 
 There are no formal instructor office hours for this course. If you wish to speak with the instructor or TA, just contact them via Teams and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
 
@@ -226,6 +226,19 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 # Schedule
 
 [Click here to see the schedule](https://dalpsychneuro.github.io/NESC_3505/schedule.html).
+
+In its 12 week version, the course has weekly and bi-weekly structure:
+
+## Weekly Structure
+### Synchronous Activities
+Each week, there will be one in-person lab session, on Wednesdays. This session will typically include review of the week's learning material, tutorials on course content or on things that we identified as issues from errors on assignments or questions from students, and the opportunity to ask questions from the teaching team. Some lab sessions will be open work time when you can work on course material with the teaching team on-hand to answer questions as they arise.
+
+### Asynchronous Activities
+Most of your learning will come from sitting and coding - working through the lessons on CoCalc (ideally following along with the videos) and on DataCamp, and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete two lessons per week, along with any DataCamp sections that are assigned. You should aim to follow the [schedule](https://dalpsychneuro.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it's likely best to block off time every day or two to focus on work for this course.
+
+## Bi-Weekly Structure
+There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://dalpsychneuro.github.io/NESC_3505/schedule), but as always, Teams is your authoritative source for due dates.
+
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
