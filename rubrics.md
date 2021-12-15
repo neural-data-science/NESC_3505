@@ -149,12 +149,12 @@ These are essentially the same as for the draft submission, except in terms of t
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | ≥ 6 items  |
-|**4**  | 5 items  |
-|**3**  | 4 items  |
-|**2**  | 3 items  |
-|**1**  | 2 items  |
-|**0**  | < 2 items |
+|**5**  | ≥ 5 items  |
+|**4**  | 4 items  |
+|**3**  | 3 items  |
+|**2**  | 2 items  |
+|**1**  | 1 items  |
+|**0**  | 0 items |
 
 
 ### Breadth
