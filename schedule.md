@@ -1,7 +1,7 @@
 ## Schedule
 ### Fall 2022-23
 
-**Note:** Schedule is subject to change. The course MS Teams site is the official source for due dates for all assessments and evaluations.
+**Note:** This is an independent study course. Dates for Lessons and DataCamp assignments are only guidelines. Dates for assignments should be considered fixed.
 
 | Week   | Class | Date       | Lesson                                                                                                                                                                                                  | DataCamp                                                                                       | Work Due                                                                                                          |
 |--------|-------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
