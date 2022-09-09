@@ -2,15 +2,12 @@
 ## PSYO 5001: Graduate Independent Study in Neural Data Science
 
 ### Fall 2021-22
-September 7 – December 7, 2021
+September 6 – December 7, 2022
 
-#### version 0.1 2021-09-18
+#### version 2.0 2022-09-09
 
 ### Instructor
 [Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
-
-#### Teaching Assistant (for undergraduate course components)
-[Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
 
 ---
 
@@ -42,7 +39,7 @@ An introduction to data management, manipulation, visualization, and analysis fo
 
 
 ## Prerequisites
-**PSYO 2000**, **PSYO 2501**, and **NESC 2470**, with a minimum grade of B in PSYO 2501. Grades of B+ or better in all three classes are recommended. **No prior programming experience is required**.
+Instructor's permission
 
 # Background and Rationale
 Most areas of neuroscience research and development rely on increasingly large and complex data sets. Discovery and application in neuroscience thus relies on the ability to manage these large data sets, and extract meaning from them. In other words, neuroscience now relies heavily on **data science**, which has been variously defined as “…an umbrella term to describe the entire complex and multistep processes used to extract value from data.” (Wing, 2019) and the ability to “bring structure to large quantities of formless data and make analysis possible” (Davenport & Patil, 2012, p.73).
@@ -94,22 +91,15 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 This course employs a hybrid online/in-person format, although it can be completed entirely online for people who are unable to attend the weekly lab sessions. The course consists of the following components:
 - [Freely-accessible online **textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook/)
 - Asynchronous **online lectures**
-- Optional, synchronous (scheduled/live) **check-ins** via MS Teams on Mondays and Fridays. These are opportunities for students to get guidance from the teaching team.
-- Weekly **in-person lab** session on Wednesdays. Attendance is *optional* but recommended. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
+- Optional  **check-ins** meetings with the instructor every 2 weeks or so, at mutual agreement of instructor and student(s)
 - Online tutorials and practice through **DataCamp**, a massive online education platform for data science
 
-The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
 
 ## Online Lectures and Tutorials
 This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
 
-## Labs
-Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. Participation in these is optional but recommended.
-
 ## Check-Ins
-**Participation in live check-ins is entirely optional**. However, these are the primary time when the teaching team are available for consultation. You can think of them as open office hours. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
-
-Check-ins will occur form 2:30-3:00 PM on Mondays and Wednesdays, via MS Teams.
+A biweekly meeting will be scheduled between the instructor and student(s) to check in on progress and answer questions.
 
 ## Getting Help
 One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
@@ -141,54 +131,18 @@ Due dates for all assessment and evaluation components will be posted on Teams.
 ### Online Lessons/Practice: DataCamp
 Registered students are provided with free access to the DataCamp massive online learning community. A number of DataCamp lessons are assigned in the schedule to align with the course content. They are meant to reinforce the textbook/lecture material, and provide opportunities to practice coding with immediate feedback. As well, there are several optional DataCamp lessons that you'll see suggested when you log onto your DataCamp account. You can get course credit for completing both the lessons assigned in the schedule, and any additional lessons on DataCamp that interest you (even ones not suggested by the instructor - choose your own adventure!)
 
-Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn. Your earned DataCamp XP (up to 35,000 XP) are divided by 70 to determine your DataCamp grade for this class (35,000 DataCamp XP = 500 course points).
+Grading for DataCamp lessons is based on XP assigned by the DataCamp platform. You earn XP incrementally by completing lessons, so if you complete part of a lesson you get part of the total XP. Your DataCamp work is graded pass/fail on the basis of how many XP you earn. Your earned DataCamp XP (up to 25,000 XP) are used to compute your grade (5,000 DataCamp XP = 1% course grade).
 
 DataCamp lessons can be completed later than the posted due date, up to the last day of class, with no penalty. However, not completing lessons by the posted due dates will leave you less prepared for future classes and assignments. No points for lessons will be granted after the last day of classes in the term.
 
-### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. These are assigned and submitted via Teams.
-
-### Meet 'n Greets
-You will earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
-
-All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. If a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
-
-Meet 'n greets should ideally occur early in the course. Three of these are required, and an additional three can be done for bonus points. The required meet 'n greets should be completed by the end of the first month of class.
-
 ## Summative Evaluations
-Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
+For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
 ### Assignments
-These are coding assignments that you will complete, based on neuroscience data. There is an assignment due approximately every second week, except weeks when projects are due. The first assignment is mandatory; of the remaining ones, the one on which you get the worst grade will be counted for substantially less points than the others (see table below). This allows you to drop your worst mark, or miss submitting one assignment with minimal penalty.
+These are coding assignments that you will complete, based on psychology and neuroscience data.
 
 ### Projects
-There are 2 [team-based](https://dalpsychneuro.github.io/NESC_3505_textbook/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
-
-### Project Peer Assessments
-You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
-
-#### Dealing with unequal contributions
-Submitting the peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each team member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project.
-
-For example, imagine a team of 4 members: A, B, C, and D. D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively (where equal work would have been 25% each). The team project receives a grade of 80/100 points. In this case, D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points.
-
-Please note that this is a "worst case" scenario, although it has happened in the past. We much prefer it if issues are identified before things get this bad. Teams should first try to contact the team member who seems to be doing less work, and discuss the issue with them to try to find a resolution. Secondly, *before the project deadline*, teams should contact the instructor to discuss the problem.
-
-If you are on a team and are having trouble completing your fair share of the work, likewise please first discuss this with your team members, and if you can't resolve it that way, please contact the instructor to discuss — ideally well before the project deadline. The purpose of this mechanism is to prevent students from "freeloading" on the work of others, but it is *not* meant to penalize people who are experiencing genuine struggles of any kind. The instructor is eager to support students who are struggling in any way.
-
-### Portfolio
-One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised version after feedback!
-
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
-
-### Demos
-Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
-
-A demo can take a variety of formats, including code, video, a blog post, etc.. Regardless of the format, it should have a clear topic, and you should articulate in the demo why the topic is of interest and relevance to you, what is interesting about it, and how it connects to the course content.
-
-Possible demo topics are discussed, with examples, in the [textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/1/demos).
-
-Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
+There are 2 individual, self-directed projects to complete. These projects should be defined *in advance* of working on them, between the student and instructor. The projects should be based on the material covered in the course, but can use data that the student has acquired, or other data (e.g., open source). The instructor may be able to provide data sets and advice on these, but students are encouraged to define projects that help support their learning goals and/or or degree-related research projects.
 
 
 # Grading
@@ -197,38 +151,20 @@ This course follows the [Dalhousie Faculty of Graduate Studies grading scale](ht
 ## How to Earn Points
 The table below lists all the "core" and "bonus" opportunities to earn points in this course.
 
-| **Summative Evaluations (graded)**                                          | **XP** | **bonus XP** |
-|-----------------------------------------------------------------------------|--------|--------------|
-| ***Assignments***                                                           |        |              |
-| Assignment 1                                                                | 500    |              |
-| Assignments 2-5, 3 best marks @ 1000                                        | 3000   |              |
-| Assignments 2-5, worst mark                                                 |        | 250          |
-| ***Projects***                                                              |        |              |
-| Project 1                                                                   | 1500   |              |
-| Project 2                                                                   | 1500   |              |
-| ***Demos***                                                                 |        |              |
-| Demos, best 2 @ 500 ([rubric](rubrics#demo-rubric))                         | 1000   |              |
-| Demo 3rd best mark                                                          |        | 100          |
-| ***Portfolio***                                                             |        |              |
-| Portfolio submission 1 ([rubric](rubrics#portfolio-draft-submission-rubric)) |       | 100          |
-| Portfolio submission 2 ([rubric](rubrics#portfolio-final-submission-rubric)) | 1500  |              |
-| ***Graduate Project***                                                      | 3333   |              |  
-| **Formative Assessments (Pass/Fail)**                                       |        |              |
-| ***Datacamp lessons***                                                      | 500    |              |
-| ***Peer Assessments***                                                      |        |              |
-| Project 1 peer assessment                                                   | 100    |              |
-| Project 2 peer assessment                                                   | 100    |              |
-| ***Self-Assessments***                                                      |        |              |
-| Self-assessments 6 @ 50                                                     | 300    |              |
-| Self-assessment skip one or bonus points                                    |        | 25           |
-| ***Meet 'n Greets***                                                        |        |              |
-| Meet 'n Greets - 5 @ 25                                                     |        | 125          |
-| ***Other Bonus Points***                                                    |        |              |
-| Did not ask for extension bonus                                             |        | 200          |
-| Project 1 team size > 3 people                                              |        | 100          |
-| Project 2 team size > 3 people                                              |        | 100          |
-| **Totals**                                                                  | 13333  | 1000         |
-
+| **Summative Evaluations (graded)**     | **% of final grade** |
+|----------------------------------------|----------------------|
+| ***Assignments***                      |                      |
+| Assignment 1                           | 5                    |
+| Assignment 2                           | 10                   |
+| Assignment 3                           | 10                   |
+| Assignment 4                           | 10                   |
+| Assignment 5                           | 10                   |
+| ***Projects***                         |                      |
+| Project 1                              | 25                   |
+| Project 2                              | 25                   |
+| **Formative Assessments (Pass/Fail)**  |                      |
+| ***Datacamp lessons***: 1% per 5000 XP | 5                    |
+| **Totals**                             | 100                  |
 
 # Schedule
 
