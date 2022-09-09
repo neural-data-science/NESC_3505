@@ -2,7 +2,7 @@
 
 **[Department of Psychology & Neuroscience](https://dal.ca/psychandneuro), [Dalhousie University](https://dal.ca)**
 
-<a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505">View course description on Dal.ca</a>
+View <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505">course description </a>on Dalhousie University's website
 
 Developed and taught by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
 
