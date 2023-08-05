@@ -175,7 +175,7 @@ One of the outcomes of this class is that you will have an online portfolio demo
 
 Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
 
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://dalpsychneuro.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://dalpsychneuro.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
+Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
 
 ### Demos
 Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. Demos will ultimately be posted on your portfolio, but they are graded independently of your portfolio.
@@ -225,7 +225,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 
 # Schedule
 
-[Click here to see the schedule](https://dalpsychneuro.github.io/NESC_3505/schedule.html).
+[Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule.html).
 
 In its 12 week version, the course has weekly and bi-weekly structure:
 
@@ -234,10 +234,10 @@ In its 12 week version, the course has weekly and bi-weekly structure:
 Each week, there will be one in-person lab session, on Wednesdays. This session will typically include review of the week's learning material, tutorials on course content or on things that we identified as issues from errors on assignments or questions from students, and the opportunity to ask questions from the teaching team. Some lab sessions will be open work time when you can work on course material with the teaching team on-hand to answer questions as they arise.
 
 ### Asynchronous Activities
-Most of your learning will come from sitting and coding - working through the lessons on CoCalc (ideally following along with the videos) and on DataCamp, and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete two lessons per week, along with any DataCamp sections that are assigned. You should aim to follow the [schedule](https://dalpsychneuro.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it's likely best to block off time every day or two to focus on work for this course.
+Most of your learning will come from sitting and coding - working through the lessons on CoCalc (ideally following along with the videos) and on DataCamp, and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete two lessons per week, along with any DataCamp sections that are assigned. You should aim to follow the [schedule](https://neural-data-science.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it's likely best to block off time every day or two to focus on work for this course.
 
 ## Bi-Weekly Structure
-There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://dalpsychneuro.github.io/NESC_3505/schedule), but as always, Teams is your authoritative source for due dates.
+There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://neural-data-science.github.io/NESC_3505/schedule), but as always, Teams is your authoritative source for due dates.
 
 
 # Policies

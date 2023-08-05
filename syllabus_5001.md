@@ -89,20 +89,20 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 # Course Format
 This course employs a hybrid online/in-person format, although it can be completed entirely online for people who are unable to attend the weekly lab sessions. The course consists of the following components:
-- [Freely-accessible online **textbook**](https://dalpsychneuro.github.io/NESC_3505_textbook/)
+- [Freely-accessible online **textbook**](https://neural-data-science.github.io/NESC_3505_textbook/)
 - Asynchronous **online lectures**
 - Optional  **check-ins** meetings with the instructor every 2 weeks or so, at mutual agreement of instructor and student(s)
 - Online tutorials and practice through **DataCamp**, a massive online education platform for data science
 
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://neural-data-science.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class:you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
 
 ## Check-Ins
 A biweekly meeting will be scheduled between the instructor and student(s) to check in on progress and answer questions.
 
 ## Getting Help
-One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
+One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neural-data-science.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
@@ -113,10 +113,10 @@ All necessary materials (including the textbook) will be provided online, throug
 
 **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
 
-Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://dalpsychneuro.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
+Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://neural-data-science.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
-Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
+Your final grade will be based on a combination of [*formative assessments*](https://neural-data-science.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://neural-data-science.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
 The items you're graded on are divided into two categories:
 - **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a small proportion of your grade (10%), but they are all graded as pass/fail, so you get the full XP for completing them. Thus collectively they can make a significant difference in your grade.
@@ -168,7 +168,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 
 # Schedule
 
-[Click here to see the schedule](https://dalpsychneuro.github.io/NESC_3505/schedule.html).
+[Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule.html).
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.

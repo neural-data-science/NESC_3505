@@ -85,14 +85,14 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 
 # Course Format
 This course consists of the following components:
-- [Freely-accessible online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/)
+- [Freely-accessible online textbook](https://neural-data-science.github.io/NESC_3505_textbook/)
 - Asynchronous online lectures, lessons, and tutorials
 - Optional, synchronous (scheduled/live) check-ins to get guidance from the teaching team
 
-The "home base" for this class will be a [Microsoft Teams](https://dalpsychneuro.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.**
+The "home base" for this class will be a [Microsoft Teams](https://neural-data-science.github.io/NESC_3505_textbook/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.**
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://dalpsychneuro.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
+This course employs a “flipped classroom” model. Lectures and tutorials are available in the [online textbook](https://neural-data-science.github.io/NESC_3505_textbook/) and/or as pre-recorded videos, available online for viewing at any time. Many of these lessons involve quizzes and coding activities. **This course requires that you put in significant hours per week outside of class: at the outset, you should budget 18 h/week for a 7-week condensed summer version of the course, or 9 h/week for the regular term version.**
 
 ## Check-Ins
 **Participation in live check-ins is entirely optional**. We recognize that online delivery presents opportunities and challenges around scheduling. However, check-ins are the primary time when the teaching team are available for consultation. You may post questions on the class Teams site outside of check-in times, but there is no guaranteed response time prior to the next check-in (we will do what we can, but have other demands on our time).
@@ -100,7 +100,7 @@ This course employs a “flipped classroom” model. Lectures and tutorials are 
 The timing of check-ins will be determined in consultation with registered students. We will aim to be as inclusive as possible in scheduling check-ins.
 
 ## Getting Help
-One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://dalpsychneuro.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
+One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neural-data-science.github.io/NESC_3505_textbook/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
@@ -111,10 +111,10 @@ All necessary materials will be provided online, through the course Teams site. 
 
 **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
 
-Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://dalpsychneuro.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
+Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://neural-data-science.github.io/NESC_3505_textbook/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
-Your final grade will be based on a combination of [*formative assessments*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
+Your final grade will be based on a combination of [*formative assessments*](https://neural-data-science.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://neural-data-science.github.io/NESC_3505_textbook/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
 Due dates for all assessment and evaluation components will be posted on Teams.
 
@@ -148,7 +148,7 @@ For all summative evaluations, **late work will be penalized 2% per hour**, with
 These are coding assignments that you will complete, based on neuroscience data. There is an assignment due every week, except weeks when projects are due. Scheduled class time is the only time you will be able to get help on the assignments from the teaching team. There will be 6 assignments over the term. You must submit a minimum of 4 of these, but bonus points will be awarded for submitting 5 or 6.
 
 ### Projects
-There are 2 [team-based](https://dalpsychneuro.github.io/NESC_3505_textbook/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
+There are 2 [team-based](https://neural-data-science.github.io/NESC_3505_textbook/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
 
 ### Project Peer Assessments
 You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
@@ -164,7 +164,7 @@ At the end of every week (7-week course) or two weeks (12-week course) there wil
 One of the outcomes of this class is that you will have a portfolio demonstrating your work, that you could show to a potential employer or graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Grading will be according to a rubric with five components: quantity of samples; breadth; quality of work; quality of presentation; and organization. The detailed rubric is provided on the Teams site, as well as a collection of videos with advice on how to create and format your portfolio online.
 
 # Grading
-This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate [experience points (XP)](https://dalpsychneuro.github.io/NESC_3505_textbook/1/assessment_evaluation.html#everyone-starts-with-an-f) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
+This course follows the Dalhousie grading scale, but in a different way than you are probably used to. Borrowing the model of role-playing games (RPGs), you accumulate [experience points (XP)](https://neural-data-science.github.io/NESC_3505_textbook/1/assessment_evaluation.html#everyone-starts-with-an-f) by completing the assessments and evaluations listed above. Formative assessments are pass/fail, so you get the full XP for completing them. Summative evaluations are graded, so the XP you receive will be in proportion to your grade (e.g., if you get 70% on an assignment, you get 70% of the XP that the assignment is worth). Like RPGs, your XP determine your level in the course, according to the table below. Your level at the end of the course determines your final grade.
 
 | Level | XP     | letter grade |
 |-------|--------|--------------|
@@ -267,7 +267,7 @@ That's a lot of ways to earn points! The table below summarizes how the points a
 
 # Schedule
 
-[Click here to see the schedule](https://dalpsychneuro.github.io/NESC_3505/schedule.html).
+[Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule.html).
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.

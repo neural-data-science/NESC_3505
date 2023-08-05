@@ -9,27 +9,27 @@ Developed and taught by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%
 ## Fall 2022-23
 NESC 3505 is not offered in 2022-23
 
-[Grad Student version](https://dalpsychneuro.github.io/NESC_3505/syllabus_5001)
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001)
  |
-[Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
 
 
 ## Fall 2021-22
-[Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2021f)
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2021f)
  |
-[Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2021f)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2021f)
  |
-[Grad Student version](https://dalpsychneuro.github.io/NESC_3505/syllabus_5001_2021f)
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2021f)
 
 ---
 
 ## Past Versions of the Course
 ### Fall 2020-21
-[Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2020f)
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2020f)
  |
-[Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2020f)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2020f)
 
 ### Summer 2020
-[Syllabus](https://dalpsychneuro.github.io/NESC_3505/syllabus_2020s)
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2020s)
  |
-[Schedule](https://dalpsychneuro.github.io/NESC_3505/schedule_2020s)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2020s)
