@@ -2,16 +2,16 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Fall 2021-22
-September 7 – December 7, 2021
+### Fall 2023-24
+September 7 – December 7, 2023
 
 #### version 1.1 2021-09-04
 
 ### Instructor
-[Dr. Aaron Newman](http://aaronjnewman.com) ([Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca))
+Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
 
 #### Teaching Assistant
-[Danny Godfrey](https://www.thecoast.ca/halifax/maturity-rules/Content?oid=4007362) (use Teams to contact the TA)
+Brynn Harris-Shanks
 
 ---
 
@@ -164,7 +164,7 @@ You will be asked to submit structured peer reviews following each of the two te
 #### Dealing with unequal contributions
 Submitting the peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each team member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project.
 
-For example, imagine a team of 4 members: A, B, C, and D. D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively (where equal work would have been 25% each). The team project receives a grade of 80/100 points. In this case, D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points.
+For example, imagine a team of 4 members: A, B, C, and D. D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively --- for an average of 2% (where equal work would have been 25% each). The team project receives a grade of 80/100 points. In this case, D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points.
 
 Please note that this is a "worst case" scenario, although it has happened in the past. We much prefer it if issues are identified before things get this bad. Teams should first try to contact the team member who seems to be doing less work, and discuss the issue with them to try to find a resolution. Secondly, *before the project deadline*, teams should contact the instructor to discuss the problem.
 
