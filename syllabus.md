@@ -90,13 +90,10 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 - Use, and communicate the value of, open and reproducible code and data
 
 # Course Format
-This course employs a hybrid online/in-person format, although it can be completed entirely online for people who are unable to attend the weekly lab sessions. The course consists of the following components:
+This course employs a hybrid online/in-person format. The course consists of the following components:
 - [Freely-accessible online **textbook**](https://neuraldatascience.io/)
-- Asynchronous **online lessons**
-- Weekly **in-person lab** sessions. Attendance is expected. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Any such instruction will be recorded and posted via Teams. Some labs will be open work time where the instructor and TA are available for consultation.
-- Online tutorials and practice through **DataCamp**, a massive online education platform for data science
-
-The "home base" for this class will be a [Microsoft Teams](https://neuraldatascience.io/2/teams.html) site hosted through Dalhousie University. Registered students will receive an invitation to this site via their Dal.ca email. The Teams site will contain links to all course materials, as well as hosting text messaging and video/audio chat meetings. **The Teams site will be the primary source for course-related announcements, and the official source for assignment due dates.** This course does not use Brightspace.
+- Asynchronous **online lessons** that follow the textbook, along with files you can download to code along with the lessons
+- Weekly **in-person lab** sessions. Attendance is expected. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Some labs will be open work time where the instructor and TA are available for consultation.
 
 ## Online Lectures and Tutorials
 This course employs a “flipped classroom” model. The primary course matierial is the [online textbook](https://neuraldatascience.io/), and video walkthroughs of the lessons in the textbook on the course [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp). These largely involve writing code. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
@@ -109,14 +106,14 @@ One of the course learning objectives is "Extend your skills using online resour
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
-The course Teams site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. Please do not email the teaching team with questions about the class — use the Teams site. Do feel free to email the instructor if you have personal topics that you need to discuss privately, or you can use direct messaging on Teams.
+The course Brightspace site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. 
 
-There are no formal instructor office hours for this course. If you wish to speak with the instructor or TA, just contact them via Teams and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
+There are no formal instructor or TA office hours for this course. If you wish to speak with the instructor or TA, just contact them and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
 
 # Course Materials
-All necessary materials (including the textbook) will be provided online, through the course Teams site. **You must have access to a computer** running a recent version of the Mac, Windows, Chrome, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
+All necessary materials (including the textbook) will be provided online. **You must have access to a computer** running a recent version of the Mac, Windows, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, Android device, or Chromebook, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
 
-**You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. Provisions will be made if students cannot participate in live audio/video sessions due to internet constraints; please contact the instructor to discuss if this is an issue for you.
+**You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. If you are unable to access the internet at home, you can use the internet at Dalhousie, or at a public library or other public space. If you are unable to access the internet at all, please contact the instructor to discuss options.
 
 Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://neuraldatascience.io/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
@@ -124,27 +121,25 @@ Beyond these basic requirements, this course emphasizes (and will teach you abou
 Your final grade will be based on a combination of [*formative assessments*](https://neuraldatascience.io/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://neuraldatascience.io/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
 The items you're graded on are divided into two categories:
-- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a small proportion of your grade (10%), but they are all graded as pass/fail, so you get the full XP for completing them. Thus collectively they can make a significant difference in your grade.
-- **Summative evaluations** comprise the majority (90%) of your final grade. These are meant to *summarize* your learning. All summative evaluations are graded.
+- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a small proportion of your grade, but they are all graded as pass/fail, so you get the full XP for completing them (as long as you complete them correctly, according to the instructions). Collectively they can make a significant difference in your grade.
+- **Summative evaluations** comprise the majority of your final grade. These are meant to *summarize* your learning. All summative evaluations are graded.
 
-The grading system is built to be **inclusive and adaptive** to the needs and life circumstances of individual students. While some assessments are not accepted after the due date, and some evaluations have late penalties, we recognize that missed or late assignments sometimes happen for excusable reasons. Rather than making a big deal about your proving to us that your reason is legitimate, we instead provide options *built right into the course* for you to make up lost points in other ways, including skipping a missed assignment in some cases, or having your worst mark on certain items (like assignments) be worth much fewer points. Because there are a variety of bonus points on offer, there are actually more opportunities to earn points than you need to get an A+ in the course. This means that you can, within reason, pick and choose how to achieve your desired grade. That said, your grade is intended to reflect the degree to which you have met the learning objectives, so you do need to demonstrate competence with regard to all of the objectives.
-
-Due dates for all assessment and evaluation components will be posted on Teams.
+Due dates for all assessment and evaluation components will be posted on the course LMS.
 
 ## Formative Assessments
 
 ### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. These are assigned and submitted via Teams.
+You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. For this reason, **no extensions will be granted**.
 
-### Meet 'n Greets
-You will earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
+### Meet 'n Greets (optional)
+You can earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
 
 All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. If a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
 
-Meet 'n greets should ideally occur early in the course. The required meet 'n greets should be completed by the end of the first month of class.
+Meet 'n greets should ideally occur early in the course, and must be completed by the end of the first month of class in order for you to receive points.
 
 ## Summative Evaluations
-Because 10% of your final grade (the formative assessments) are "easy" pass/fail points, and an additional 10% is available in bonus points, you can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
+You can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
 ### Assignments
 These are coding assignments that you will complete, based on neuroscience data. There is an assignment due approximately every second week, except weeks when projects are due. The first assignment is mandatory for everyone, and it's important because it will teach you how to access course materials and use the tools required for the rest of the course. All of the other assignments are mandatory, however --- if and only if you submit *all* of the assignments --- the grade on the assignment you did worst on will be dropped (see table below). 
@@ -222,13 +217,13 @@ Each week, there will be one in-person lab session as scheduled in the universit
 Most of your learning will come from sitting and coding, working through the lessons (ideally following along with the videos), and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete three lessons per week, along with any assignments. You should aim to follow the [schedule](https://neural-data-science.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it works best to block off time every day or two to focus on work for this course.
 
 ## Bi-Weekly Structure
-There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://neural-data-science.github.io/NESC_3505/schedule), but as always, Teams is your authoritative source for due dates.
+There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://neural-data-science.github.io/NESC_3505/schedule), but as always, the LMS is your authoritative source for due dates.
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor on Teams outside of this time for help, but response times will be variable.
+Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor outside of this time for help, but response times will be variable.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
