@@ -131,6 +131,9 @@ Due dates for all assessment and evaluation components will be posted on the cou
 ### Self-Assessments
 You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. For this reason, **no extensions will be granted**.
 
+### Project Peer Assessments
+You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
+
 ### Meet 'n Greets (optional)
 You can earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
 
@@ -147,9 +150,6 @@ These are coding assignments that you will complete, based on neuroscience data.
 ### Projects
 There are 2 [team-based](https://neuraldatascience.io/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
 
-### Project Peer Assessments
-You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
-
 #### Dealing with unequal contributions
 Submitting the peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each team member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project.
 
@@ -159,13 +159,6 @@ Please note that this is a "worst case" scenario, although it has happened in th
 
 If you are on a team and are having trouble completing your fair share of the work, likewise please first discuss this with your team members, and if you can't resolve it that way, please contact the instructor to discuss — ideally well before the project deadline. The purpose of this mechanism is to prevent students from "freeloading" on the work of others, but it is *not* meant to penalize people who are experiencing genuine struggles of any kind. The instructor is eager to support students who are struggling in any way.
 
-### Portfolio (Optional)
-If you're interested in carrying on in data science, or otherwise showcasing your skills as a coder to potential supervisors or employers, an online portfolio is a great way to do this. The portfolio is optional, and counts for bonus points if you do submit it. We will provide lessons on how to build a portfolio, and you will have the option of submitting a draft for feedback prior to grading.
-
-Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
-
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
-
 ### Demos
 Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. 
 
@@ -173,6 +166,12 @@ A demo can take a variety of formats, including code, video, a blog post, etc.. 
 
 Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
 
+### Portfolio (Optional)
+If you're interested in carrying on in data science, or otherwise showcasing your skills as a coder to potential supervisors or employers, an online portfolio is a great way to do this. The portfolio is optional, and counts for bonus points if you do submit it. We will provide lessons on how to build a portfolio, and you will have the option of submitting a draft for feedback prior to grading.
+
+Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
+
+Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
 
 # Grading
 This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000. Your grade is based on the percentage of 10,000 points that you earn (including bonus points).
