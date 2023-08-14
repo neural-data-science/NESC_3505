@@ -5,7 +5,7 @@
 ### Fall 2023-24
 September 7 – December 7, 2023
 
-#### version 0.2 2023-08-11
+#### version 0.3 2023-08-13
 
 ### Instructor
 Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
