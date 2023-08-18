@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../NESC_3505_textbook"
+		},
+		{
+			"path": "../NESC_3505_assignments"
+		}
+	],
+	"settings": {}
+}
