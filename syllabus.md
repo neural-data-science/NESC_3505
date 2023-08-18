@@ -3,15 +3,18 @@
 *Cross-Listed as PSYO 3505*
 
 ### Fall 2023-24
-September 7 – December 7, 2023
+Tuesdays: 12:35 pm - 2:25 pm
+September 5 – December 5, 2023
+LSC Commons Area, Room C212
 
-#### version 0.3 2023-08-13
+
+#### version 0.4 2023-08-18
 
 ### Instructor
 Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
 
 #### Teaching Assistant
-Brynn Harris-Shanks
+Brynn Harris-Shanks ([brynn.hs@dal.ca](mailto:brynn.hs@dal.ca))
 
 ---
 
@@ -25,14 +28,11 @@ Brynn Harris-Shanks
 - [Grading](#grading)
 - [Schedule](#schedule)
 - [Policies](#policies)
+- [Recognition](#recognition) 
 
 ---
 
-## Recognition of Mi’kmaq Territory
-Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people. The Elders in Residence program provides students with access to First Nations elders for guidance, counsel and support. Visit the [Indigenous Student Centre](https://www.dal.ca/campus_life/communities/indigenous.html) or contact the programs at [elders@dal.ca](mailto:elders@dal.ca).
 
-## Diversity and Inclusion – Culture of Respect
-Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education. We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction prioritizes fostering a culture of diversity and inclusiveness. For more information please see [here](http://www.dal.ca/cultureofrespect.html).
 
 ---
 # Course Description
@@ -285,3 +285,9 @@ Chemical Safety: [https://www.dal.ca/dept/safety/programs-services/chemical-safe
 Radiation Safety: [https://www.dal.ca/dept/safety/programs-services/radiation-safety.html](https://www.dal.ca/dept/safety/programs-services/radiation-safety.html)
 
 Scent-Free Program: [https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-free.html](https://www.dal.ca/dept/safety/programs-services/occupational-safety/scent-free.html)
+
+## Recognition of Mi’kmaq Territory
+Dalhousie University is located in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq. We are all Treaty people. The Elders in Residence program provides students with access to First Nations elders for guidance, counsel and support. Visit the [Indigenous Student Centre](https://www.dal.ca/campus_life/communities/indigenous.html) or contact the programs at [elders@dal.ca](mailto:elders@dal.ca).
+
+## Diversity and Inclusion – Culture of Respect
+Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education. We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction prioritizes fostering a culture of diversity and inclusiveness. For more information please see [here](http://www.dal.ca/cultureofrespect.html).
