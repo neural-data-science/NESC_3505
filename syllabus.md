@@ -7,8 +7,7 @@ Tuesdays: 12:35 pm - 2:25 pm
 September 5 – December 5, 2023
 LSC Commons Area, Room C212
 
-
-#### version 0.4 2023-08-18
+#### version 1.0 2023-08-18
 
 ### Instructor
 Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
@@ -32,9 +31,6 @@ Brynn Harris-Shanks ([brynn.hs@dal.ca](mailto:brynn.hs@dal.ca))
 
 ---
 
-
-
----
 # Course Description
 An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as cognitive-behavioural research, single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
 
