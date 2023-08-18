@@ -93,38 +93,38 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 This course employs a hybrid online/in-person format. The course consists of the following components:
 - [Freely-accessible online **textbook**](https://neuraldatascience.io/)
 - Asynchronous **online lessons** that follow the textbook, along with files you can download to code along with the lessons
-- Weekly **in-person lab** sessions. Attendance is expected. In some labs the instructor and/or TA will review material, such as introducing an assignment and discussion approaches to completing it. Some labs will be open work time where the instructor and TA are available for consultation.
+- Weekly **in-person lab** sessions. Attendance is expected. In some labs the instructor and/or TA will review material, such as introducing an assignment and discuss approaches to completing it. Some labs will be open work time where the instructor and TA are available for consultation.
 
 ## Online Lectures and Tutorials
-This course employs a “flipped classroom” model. The primary course matierial is the [online textbook](https://neuraldatascience.io/), and video walkthroughs of the lessons in the textbook on the course [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp). These largely involve writing code. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for work on the course, including the 2 h/week lab time.**
+This course employs a “flipped classroom” model. The primary course material is the [online textbook](https://neuraldatascience.io/), with video walkthroughs of the textbook lessons on the course [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp). These largely involve writing code. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for coursework, including the 2 h/week lab time.**
 
 ## Labs
-Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. Participation in these is optional but recommended.
+Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. 
 
 ## Getting Help
-One of the course learning objectives is "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neuraldatascience.io/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; you will not find all the answers in the textbook.
+One of the course learning objectives is to "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neuraldatascience.io/1/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; by design, you will not find all the answers in the textbook.
 
 That said, learning can sometimes go a lot faster when you ask questions. We encourage you to ask questions of your peers in the class, and of the teaching team — in that order. Peer teaching is built into the class through collaboration tools, demos, and team projects. This is the way real, functional teams operate — supporting each other to achieve more.
 
 The course Brightspace site is where you should direct all your questions (after making your own attempts to research and solve your problem). This can include posting questions in the messaging forums, or joining live check-ins to ask questions. 
 
-There are no formal instructor or TA office hours for this course. If you wish to speak with the instructor or TA, just contact them and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
+There are no formal instructor or TA office hours for this course. If you wish to speak with the instructor or TA, just contact them in a timely manner (note that rapid replies cannot be guaranteed) and ask to schedule a meeting and we will set something up at a mutually-agreeable time.
 
 # Course Materials
-All necessary materials (including the textbook) will be provided online. **You must have access to a computer** running a recent version of the Mac, Windows, or Linux operating systems. It may be possible to complete this course, including programming assignments, using an iPad, Android device, or Chromebook, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
+All necessary materials (including the textbook) will be provided online. **You must have access to a computer** running a recent version of a Mac, Windows, or Linux operating system. It may be possible to complete this course, including programming assignments, using an iPad, Android device, or Chromebook, but this has not been verified. It is not a good idea to expect to be able to complete the course using only a mobile device (phone or tablet).
 
 **You must also have access to internet service** of sufficient quality to stream videos and maintain a live connection to remote servers. If you are unable to access the internet at home, you can use the internet at Dalhousie, or at a public library or other public space. If you are unable to access the internet at all, please contact the instructor to discuss options.
 
-Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No textbook is required. This course will rely on [Open Educational Resources](https://neuraldatascience.io/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
+Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No physical textbook is required. This course will rely on [Open Educational Resources](https://neuraldatascience.io/1/oer_this_course.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
 Your final grade will be based on a combination of [*formative assessments*](https://neuraldatascience.io/1/assessment_evaluation.html) (self and peer evaluations) and [*summative evaluations*](https://neuraldatascience.io/1/assessment_evaluation.html) (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
 
 The items you're graded on are divided into two categories:
-- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require little time to complete. They contribute a small proportion of your grade, but they are all graded as pass/fail, so you get the full XP for completing them (as long as you complete them correctly, according to the instructions). Collectively they can make a significant difference in your grade.
-- **Summative evaluations** comprise the majority of your final grade. These are meant to *summarize* your learning. All summative evaluations are graded.
+- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require very little time to complete. They contribute a small proportion of your grade, but they are all graded as pass/fail, so you get the full XP for completing them (as long as you complete them correctly, according to the instructions). Collectively they can make a significant difference in your grade.
+- **Summative evaluations** comprise the majority of your final grade. These are meant to *summarize* your learning. All summative evaluations are graded by the teaching team.
 
-Due dates for all assessment and evaluation components will be posted on the course LMS.
+Due dates for all assessment and evaluation components will be posted on the course Brightspace area.
 
 ## Formative Assessments
 
@@ -137,7 +137,7 @@ You will be asked to submit structured peer reviews following each of the two te
 ### Meet 'n Greets (optional)
 You can earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
 
-All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. If a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
+All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/dept/university_secretariat/policies/student-life/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Note: if a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
 
 Meet 'n greets should ideally occur early in the course, and must be completed by the end of the first month of class in order for you to receive points.
 
@@ -151,9 +151,9 @@ These are coding assignments that you will complete, based on neuroscience data.
 There are 2 [team-based](https://neuraldatascience.io/1/teamwork.html) projects to complete. These projects are directly based on the class assignments, but integrate across multiple classes and assignments, as well as requiring you to extend and apply what you have learned, to new contexts.
 
 #### Dealing with unequal contributions
-Submitting the peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each team member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project.
+Submitting a peer assessment itself is worth only a few points towards your final grade. However, it is also an opportunity for teams to identify individuals who did not contribute substantially to the project work. The peer assessment asks each team member to estimate the proportion of work done on the project by each team member. If any team member is identified by a majority of other team members as having done substantially less then their fair share of the work ("substantially less" being less than half as much work as others), the average contribution rating of all team members (other than the student in question) will be used to reduce the student's grade on the team project.
 
-For example, imagine a team of 4 members: A, B, C, and D. D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively --- for an average of 2% (where equal work would have been 25% each). The team project receives a grade of 80/100 points. In this case, D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points.
+For example, imagine a team of 4 members: A, B, C, and D. Team member D slacks off and does little to none of the work, and members A, B, and C rate D's contribution as 0, 2, and 4% of the project respectively --- for an average of 2% (where equal work would have been 25% each). Let's say the team's project receives a grade of 80/100 points. In this case, team member D's grade on the project would be 2/25 or 8% of the points awarded for the project, i.e., 0.08 * 80 = 6.4 points.
 
 Please note that this is a "worst case" scenario, although it has happened in the past. We much prefer it if issues are identified before things get this bad. Teams should first try to contact the team member who seems to be doing less work, and discuss the issue with them to try to find a resolution. Secondly, *before the project deadline*, teams should contact the instructor to discuss the problem.
 
@@ -167,14 +167,14 @@ A demo can take a variety of formats, including code, video, a blog post, etc.. 
 Grading (by the teaching team) will be based on a rubric with four components: *quality of content*, *quality of explanation*, *quality of presentation*, and *relevance/usefulness of topic*, with a few bonus points available for *creativity*.
 
 ### Portfolio (Optional)
-If you're interested in carrying on in data science, or otherwise showcasing your skills as a coder to potential supervisors or employers, an online portfolio is a great way to do this. The portfolio is optional, and counts for bonus points if you do submit it. We will provide lessons on how to build a portfolio, and you will have the option of submitting a draft for feedback prior to grading.
+If you're interested in carrying on in data science, or otherwise showcasing your skills as a coder to potential supervisors or employers, an online portfolio is a great way to do this. The portfolio is optional, but counts for bonus points if you do submit it. We will provide lessons on how to build a portfolio, and you will have the option of submitting a draft for feedback prior to grading.
 
 Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
 
 Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
 
 # Grading
-This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000. Your grade is based on the percentage of 10,000 points that you earn (including bonus points).
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000 XP ("experience points"). Your grade is based on the percentage of 10,000 points that you earn, including bonus points.
 
 ## How to Earn Points
 The table below lists all the "core" and "bonus" opportunities to earn points in this course.
@@ -206,23 +206,23 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 
 [Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule.html).
 
-The course has weekly and bi-weekly structure:
+The course has a weekly and bi-weekly structure:
 
 ## Weekly Structure
 ### Synchronous Activities
-Each week, there will be one in-person lab session as scheduled in the university timetable. This session will typically include review of the week's learning material, tutorials on course content or on things that we identified as issues from errors on assignments or questions from students, and the opportunity to ask questions from the teaching team. Some lab sessions will be open work time when you can work on course material with the teaching team on-hand to answer questions as they arise.
+Each week, there will be one in-person lab session as scheduled in the university timetable. This session will typically include review of the week's learning material, tutorials on course content or on things that we identified as issues (e.g., errors on assignments, questions from students), and the opportunity to ask questions of the teaching team. Some lab sessions will be open work time when you can work on course material with the teaching team on-hand to answer questions as they arise.
 
 ### Asynchronous Activities
 Most of your learning will come from sitting and coding, working through the lessons (ideally following along with the videos), and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete three lessons per week, along with any assignments. You should aim to follow the [schedule](https://neural-data-science.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it works best to block off time every day or two to focus on work for this course.
 
 ## Bi-Weekly Structure
-There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://neural-data-science.github.io/NESC_3505/schedule), but as always, the LMS is your authoritative source for due dates.
+There will be an assignment or project due every two weeks. On the alternating weeks when no assignment or project is due, a self-assessment will be due. As well, there are due dates for demos spaced over the term. These due dates are all mapped out on the [schedule](https://neural-data-science.github.io/NESC_3505/schedule), but as always, the Brightspace site is your authoritative source for due dates.
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor outside of this time for help, but response times will be variable.
+Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor outside of this time for help, but response times and availability will be variable.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
