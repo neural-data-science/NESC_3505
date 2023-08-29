@@ -31,6 +31,11 @@ Brynn Harris-Shanks ([brynn.hs@dal.ca](mailto:brynn.hs@dal.ca))
 
 ---
 
+Dalhousie University acknowledges that we are in Mi’kma’ki, the ancestral and unceded territory of the Mi’kmaq People and pays respect to the Indigenous knowledges held by the Mi’kmaq People, and to the wisdom of their Elders past and present. The Mi'kmaq People signed Peace and Friendship Treaties with the Crown, and section 35 of the Constitution Act, 1982 recognizes and affirms Aboriginal and Treaty rights. We are all Treaty people.
+Dalhousie University also acknowledges the histories, contributions, and legacies of African Nova Scotians, who have been here for over 400 years.
+
+---
+
 # Course Description
 An introduction to data management, manipulation, visualization, and analysis for neuroscience. Students will learn scientific programming in Python, and use this to work with example data from areas such as cognitive-behavioural research, single-cell recording, EEG, and structural and functional MRI. Basic signal processing techniques including filtering will be covered.
 
