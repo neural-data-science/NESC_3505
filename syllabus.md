@@ -5,7 +5,7 @@
 ### Fall 2023-24
 Tuesdays: 12:35 pm - 2:25 pm
 September 5 – December 5, 2023
-LSC Commons Area, Room C212
+LSC Common Area, Room C212
 
 #### version 1.0 2023-08-18
 
