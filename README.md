@@ -6,7 +6,6 @@ View <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=vie
 
 Developed by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
 
----
 
 ### Fall 2023-24
 Instructor: [Danny Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
@@ -16,6 +15,7 @@ Instructor: [Danny Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
 [Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
 
 
+---
 ## Past Versions of the Course
 
 ### Fall 2022-23
