@@ -13,7 +13,7 @@ LSC Commons Area, Room C212
 Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
 
 #### Teaching Assistant
-Brynn Harris-Shanks ([brynn.hs@dal.ca](mailto:brynn.hs@dal.ca))
+Saisha Rankaduwa ([saisha@dal.ca](mailto:saisha@dal.ca))
 
 ---
 
