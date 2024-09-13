@@ -3,8 +3,8 @@
 *Cross-Listed as PSYO 3505*
 
 ### Fall 2024-25
-Fridays: 11:35 am - 1:25 pm
-September 3 – December 4, 2024
+Fridays: 11:35 am - 1:25 pm <br>
+September 3 – December 4, 2024 <br>
 LSC Commons Area, Room C234
 
 #### version 1.0 2024-09-12
