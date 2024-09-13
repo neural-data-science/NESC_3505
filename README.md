@@ -10,7 +10,9 @@ Developed by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
 ### Fall 2024-25
 Instructor: [Daniel Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
 
-Teaching Assistants: [Saisha Rankaduwa](mailto:saisha@dal.ca?subject=NESC%203505) | [Can Sozuer](mailto:sozuer@dal.ca?subject=NESC%203505)
+Teaching Assistants: [Saisha Rankaduwa](mailto:saisha@dal.ca?subject=NESC%203505) 
+| 
+[Can Sozuer](mailto:sozuer@dal.ca?subject=NESC%203505)
 
 
 ---
