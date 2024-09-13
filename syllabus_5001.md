@@ -164,7 +164,7 @@ In addition to completing the above assessment components that are also used in 
 
 
 # Grading
-This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000 XP ("experience points"). Your grade is based on the percentage of 10,000 points that you earn, including bonus points.
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 100 points.
 
 ## How to Earn Points
 The table below lists all the "core" and "bonus" opportunities to earn points in this course.
@@ -186,20 +186,18 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Project 2 peer assessment                                    | 1                 |
 | ***Self-Assessments***                                       |                   |
 | Self-assessments 6 @ 50                                      | 3                 |
-| **Totals**                                                   | 100               |
+| **Total**                                                   | 100               |
 
 # Schedule
 
-[Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule.html).
-
-The course has a weekly and bi-weekly structure:
+[Click here to see the schedule](https://neural-data-science.github.io/NESC_3505/schedule).
 
 ## Weekly Structure
 ### Synchronous Activities
 Each week, there will be one in-person lab session as scheduled in the university timetable. This session will typically include review of the week's learning material, tutorials on course content or on things that we identified as issues (e.g., errors on assignments, questions from students), and the opportunity to ask questions of the teaching team. Some lab sessions will be open work time when you can work on course material with the teaching team on-hand to answer questions as they arise.
 
 ### Asynchronous Activities
-Most of your learning will come from sitting and coding, working through the lessons (ideally following along with the videos), and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete three lessons per week, along with any assignments. You should aim to follow the [schedule](https://neural-data-science.github.io/NESC_3505/schedule.html) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it works best to block off time every day or two to focus on work for this course.
+Most of your learning will come from sitting and coding, working through the lessons (ideally following along with the videos), and completing the assignments and projects. These are asynchronous activities so you can work on them on the schedule that best works for you. The course is designed expecting you to complete three lessons per week, along with any assignments. You should aim to follow the [schedule](https://neural-data-science.github.io/NESC_3505/schedule) to keep up with the lessons (although of course the beauty of asynchronous learning is the flexibility). For many people, it works best to block off time every day or two to focus on work for this course.
 
 # Policies
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
@@ -211,7 +209,7 @@ Attendance of scheduled class meetings is optional, but scheduled class times ar
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
 
 ## Academic Integrity
-At Dalhousie University, we are guided in all of our work by the values of academic integrity: honesty, trust, fairness, responsibility and respect (The Center for Academic Integrity, Duke University, 1999). As a student, you are required to demonstrate these values in all of the work you do. The University provides policies and procedures that every member of the university community is required to follow to ensure academic integrity. For more details please see: [https://www.dal.ca/about/leadership-governance/academic-integrity.html](https://www.dal.ca/about/leadership-governance/academic-integrity.html)  
+At Dalhousie University, we are guided in all of our work by the values of academic integrity: honesty, trust, fairness, responsibility and respect (The Center for Academic Integrity, Duke University, 1999). As a student, you are required to demonstrate these values in all of the work you do. The University provides policies and procedures that every member of the university community is required to follow to ensure academic integrity. For more details please see: [https://www.dal.ca/about/leadership-governance/academic-integrity.html](https://www.dal.ca/about/leadership-governance/academic-integrity.html)
 
 ## Accessibility
 The Advising and Access Services Centre is Dalhousie's centre of expertise for student accessibility and accommodation. The advising team works with students who request accommodation as a result of a disability, religious obligation, or any barrier related to any other characteristic protected under Human Rights legislation (Canada and Nova Scotia).
