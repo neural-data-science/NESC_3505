@@ -3,7 +3,7 @@
 *Offered with NESC 3505 and PSYO 3505*
 
 ### Fall 2024-25
-Tuesdays: 11:35 am - 1:25 pm
+Fridays: 11:35 am - 1:25 pm
 September 3 – December 4, 2024
 LSC Commons Area, Room C234
 
