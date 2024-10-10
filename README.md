@@ -20,18 +20,18 @@ Teaching Assistants: [Saisha Rankaduwa](mailto:saisha@dal.ca?subject=NESC%203505
 
 ### Fall 2023-24
 
-[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus)
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2023f)
  |
-[Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2023f)
  |
 [Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2023f)
 
 
 ### Fall 2022-23
 
-[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001)
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2022f)
  |
-[Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2022f)
 
 
 ### Fall 2021-22
