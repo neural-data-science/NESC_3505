@@ -2,8 +2,8 @@
 ## PSYO 5001: Independent Study in Neural Data Science
 *Offered with NESC 3505 and PSYO 3505*
 
-### Fall 2023-24
-Tuesdays: 12:35 pm - 2:25 pm
+### Fall 2024-25
+Fridays: 11:35 - 13:25
 September 5 – December 5, 2023
 LSC Commons Area, Room C212
 
@@ -16,7 +16,7 @@ Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
 Aaron Newman [Aaron.Newman@dal.ca](mailto:Aaron.Newman@dal.ca)
 
 #### Teaching Assistant
-Brynn Harris-Shanks ([brynn.hs@dal.ca](mailto:brynn.hs@dal.ca))
+TBD
 
 ---
 
