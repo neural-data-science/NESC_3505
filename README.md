@@ -7,22 +7,31 @@ View <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=vie
 Developed by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
 
 
-### Fall 2023-24
-Instructor: [Danny Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
+### Fall 2024-25
+Instructor: [Daniel Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
 
-[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus)
- |
-[Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
+Teaching Assistants: [Saisha Rankaduwa](mailto:saisha@dal.ca?subject=NESC%203505) 
+| 
+[Can Sozuer](mailto:sozuer@dal.ca?subject=NESC%203505)
 
 
 ---
 ## Past Versions of the Course
 
+### Fall 2023-24
+
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2023f)
+ |
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2023f)
+ |
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2023f)
+
+
 ### Fall 2022-23
 
-[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001)
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2022f)
  |
-[Schedule](https://neural-data-science.github.io/NESC_3505/schedule)
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2022f)
 
 
 ### Fall 2021-22
