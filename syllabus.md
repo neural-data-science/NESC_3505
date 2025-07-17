@@ -2,7 +2,7 @@
 ## NESC 3505: Neural Data Science
 *Cross-Listed as PSYO 3505*
 
-### Fall 2024-25
+### Fall 2025-26
 Fridays: 11:35 am - 1:25 pm <br>
 September 3 – December 4, 2024 <br>
 LSC Commons Area, Room C234
@@ -10,12 +10,12 @@ LSC Commons Area, Room C234
 #### version 1.0 2024-09-12
 
 ### Instructor
-Danny Godfrey ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
+TBD ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
 
 #### Teaching Assistants
-Saisha Rankaduwa ([saisha@dal.ca](mailto:saisha@dal.ca))
+TBD ([___@dal.ca](mailto:saisha@dal.ca))
 | 
-Can Sozuer ([sozuer@dal.ca](mailto:sozuer@dal.ca))
+TBD ([___@dal.ca](mailto:sozuer@dal.ca))
 
 ---
 
@@ -188,7 +188,7 @@ The table below lists all the "core" and "bonus" opportunities to earn points in
 | Project 1                                                                 | 1500   |              |
 | Project 2                                                                 | 1500   |              |
 | ***Demos***                                                               |        |              |
-| Demos, 2 @ 500                            | 1000   |              |
+| Demos, 2 @ 500                                                            | 1000   |              |
 | ***Portfolio***                                                           |        |              |
 | Portfolio (optional; [rubric](rubrics#portfolio-final-submission-rubric)) |        | 200          |
 | **Formative Assessments**                                                 |        |              |
