@@ -7,16 +7,23 @@ View <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=vie
 Developed by: [Aaron Newman](mailto:Aaron.Newman@dal.ca?subject=NESC%203505)
 
 
-### Fall 2024-25
-Instructor: [Daniel Godfrey](mailto:daniel.godfrey@dal.ca?subject=NESC%203505)
+### Fall 2025-26
+Instructor: [XXX](mailto:saisha@dal.ca?subject=NESC%203505)
 
-Teaching Assistants: [Saisha Rankaduwa](mailto:saisha@dal.ca?subject=NESC%203505) 
+Teaching Assistants: [XXXX](mailto:XXXX@dal.ca?subject=NESC%203505) 
 | 
-[Can Sozuer](mailto:sozuer@dal.ca?subject=NESC%203505)
+[XXXXX](mailto:XXXXX@dal.ca?subject=NESC%203505)
 
 
 ---
 ## Past Versions of the Course
+
+### Fall 2024-25  
+[Syllabus](https://neural-data-science.github.io/NESC_3505/syllabus_2024f)
+  |   
+[Schedule](https://neural-data-science.github.io/NESC_3505/schedule_2024f)
+  |
+[Grad Student version](https://neural-data-science.github.io/NESC_3505/syllabus_5001_2024f)
 
 ### Fall 2023-24
 
