@@ -3,19 +3,19 @@
 *Cross-Listed as PSYO 3505*
 
 ### Fall 2025-26
-Fridays: 11:35 am - 1:25 pm <br>
-September 3 – December 4, 2024 <br>
-LSC Commons Area, Room C234
+Mondays: 14:35 am - 16:25 pm <br>
+September 3 – December 3, 2025 <br>
+Location: Killam Library 4106
 
-#### version 1.0 2024-09-12
+#### version 0.1 2025-08-11
 
 ### Instructor
-TBD ([daniel.godfrey@dal.ca](mailto:daniel.godfrey@dal.ca))
+Saisha Rankaduwa ([saisha@dal.ca](mailto:saisha@dal.ca))
 
-#### Teaching Assistants
-TBD ([___@dal.ca](mailto:saisha@dal.ca))
-| 
-TBD ([___@dal.ca](mailto:sozuer@dal.ca))
+#### Teaching Assistants 
+Can Souzer ([sozuer@dal.ca](mailto:sozuer@dal.ca))
+|
+Max Mascini ([mascini.max@dal.ca](mailto:mascini.max@dal.ca))
 
 ---
 
@@ -93,16 +93,13 @@ Wing, J. M. (2019). The data life cycle. *Harvard Data Science Review*. https://
 - Use, and communicate the value of, open and reproducible code and data
 
 # Course Format
-This course employs a hybrid online/in-person format. The course consists of the following components:
+This course involves weekly in-person tutorial sessions, with the expectation that students will spend considerable time out of class working through online tutorials. The course consists of the following components:
 - [Freely-accessible online **textbook**](https://neuraldatascience.io/)
 - Asynchronous **online lessons** that follow the textbook, along with files you can download to code along with the lessons
 - Weekly **in-person lab** sessions. Attendance is expected. In some labs the instructor and/or TA will review material, such as introducing an assignment and discuss approaches to completing it. Some labs will be open work time where the instructor and TA are available for consultation.
 
 ## Online Lectures and Tutorials
 This course employs a “flipped classroom” model. The primary course material is the [online textbook](https://neuraldatascience.io/), with video walkthroughs of the textbook lessons on the course [YouTube channel](https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp). These largely involve writing code. **This course requires that you put in significant hours per week outside of class: you should budget 8 h/week for coursework, including the 2 h/week lab time.**
-
-## Labs
-Weekly lab sessions are held in-person and will be used for tutorial by the teaching team, and open office hours/consultation/work time. 
 
 ## Getting Help
 One of the course learning objectives is to "Extend your skills using online resources", and the course is based on the learning theory of [connectivism](https://neuraldatascience.io/1-intro/connectivism.html). You are encouraged and supported in taking a *lifelong learning* approach to solving problems in this course. Many of the evaluations expect you to engage in this; by design, you will not find all the answers in the textbook.
@@ -121,31 +118,10 @@ All necessary materials (including the textbook) will be provided online. **You 
 Beyond these basic requirements, this course emphasizes (and will teach you about) openly accessible resources including the software that runs the course, open access to the course materials, and the use of external resources that are available for free. No physical textbook is required. This course will rely on [Open Educational Resources](https://neuraldatascience.io/1-intro/open.html) — materials that are freely accessible and openly licensed — including online tutorials, videos, and books. A wide variety of educational materials (free and paid) for data science are available, and this course teaches an approach to lifelong learning and exploration by which you will be able to find and critically evaluate the information necessary to perform desired tasks.
 
 # Assessment and Evaluation
-Your final grade will be based on a combination of *formative assessments* (self and peer evaluations) and *summative evaluations* (presentations, assignments, projects). Each component is described below, followed by a table showing the number and point weighting of each.
-
-The items you're graded on are divided into two categories:
-- **Formative assessments** are designed to support you in improving your performance in the class (they help "form" you), through self-assessment, peer assessment, and instructor feedback. These are designed to require very little time to complete. They contribute a small proportion of your grade, but they are all graded as pass/fail, so you get the full XP for completing them (as long as you complete them correctly, according to the instructions). Collectively they can make a significant difference in your grade.
-- **Summative evaluations** comprise the majority of your final grade. These are meant to *summarize* your learning. All summative evaluations are graded by the teaching team.
 
 Due dates for all assessment and evaluation components will be posted on the course Brightspace area.
 
-## Formative Assessments
-
-### Self-Assessments
-You will submit regular written assessments of your own learning progress over the term. This type of self-reflection has been empirically demonstrated to improve learning outcomes. It's also an incredibly useful way for the instructor to keep in touch with every student, and recognize both individual and common areas where people are struggling. Each self-assessment should be 150-500 words in length. **Late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. Self-assessments are only helpful if they're done regularly, and in this class they are timed to synch up with your work in other aspects of the course. For this reason, **no extensions will be granted**.
-
-### Project Peer Assessments
-You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
-
-### Meet 'n Greets (optional)
-You can earn bonus points by participating in short (5-10 min) one-on-one meetings with other class members. These are scheduled by students at your mutual convenience, and can take the form of an online video/audio chat or in-person meeting. The purpose of these is to allow for the kinds of casual interactions you might normally have with others in a face-to-face class, and allow you to get to know people as potential team members for projects.
-
-All students are expected to abide by [Dalhousie University's Code of Student Conduct](https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/student-life-policies/code-of-student-conduct.html), and violations will be addressed through the procedures described there. Note: if a meet 'n greet makes you uncomfortable, it is fine to terminate it immediately. Please report any inappropriate behaviour to the instructor immediately. You will be heard, and you will be respected.
-
-Meet 'n greets should ideally occur early in the course, and must be completed by October 17 in order for you to receive points.
-
-## Summative Evaluations
-You can expect that grading of the summative evaluations will be quite strict. For all summative evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
+You can expect that grading of the evaluations will be quite strict. For all evaluations, **late work will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed. **Requests for extensions will only be considered prior to the due date**.
 
 ### Assignments
 These are coding assignments that you will complete, based on neuroscience data. There is an assignment due approximately every second week, except weeks when projects are due. The first assignment is mandatory for everyone, and it's important because it will teach you how to access course materials and use the tools required for the rest of the course. All of the other assignments are mandatory, however --- if and only if you submit *all* of the assignments --- the grade on the assignment you did worst on will be dropped (see table below). 
@@ -162,44 +138,34 @@ Please note that this is a "worst case" scenario, although it has happened in th
 
 If you are on a team and are having trouble completing your fair share of the work, likewise please first discuss this with your team members, and if you can't resolve it that way, please contact the instructor to discuss — ideally well before the project deadline. The purpose of this mechanism is to prevent students from "freeloading" on the work of others, but it is *not* meant to penalize people who are experiencing genuine struggles of any kind. The instructor is eager to support students who are struggling in any way.
 
-### Demos
-Demos are an opportunity for you to explore the world of neural data science, and data science more broadly, pursuing topics that are of individual interest to you. 
+## Quiz
+Because the course meetings are on Mondays, but the term starts on a Tuesday, we have scheduled an online quiz for the end of week 1. The quiz will be on the first two textbook chapters, which provide background information on the course and are important for your doing well throughout the term. 
 
-### Portfolio (Optional)
-If you're interested in carrying on in data science, or otherwise showcasing your skills as a coder to potential supervisors or employers, an online portfolio is a great way to do this. The portfolio is optional, but counts for bonus points if you do submit it. We will provide lessons on how to build a portfolio, and you will have the option of submitting a draft for feedback prior to grading.
+### Project Peer Assessments
+You will be asked to submit structured peer reviews following each of the two team projects. This will be done using a rubric with five components: participation, preparation, communication, collaboration, and academic quality. Your grade will be the average of the ratings assigned to you by your team members. **Late peer assessments will be penalized 2% per hour**, with the clock starting the minute after the deadline has elapsed.
 
-Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://www.youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
-
-Grading will be according to a rubric with five components: quantity of samples; breadth; quality of content; quality of presentation; and organization. Here are links to the rubrics for [Submission 1](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-submission-1-rubric) and [Submission 2](https://neural-data-science.github.io/NESC_3505/rubrics#portfolio-final-submission-rubric).
 
 # Grading
-This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html). The table below lists the point values of individual grading items, which total 10,000 XP ("experience points"). Your grade is based on the percentage of 10,000 points that you earn, including bonus points.
+This course follows the [Dalhousie grading scale](https://www.dal.ca/campus_life/academic-support/grades-and-student-records/grade-scale-and-definitions.html).
 
-## How to Earn Points
-The table below lists all the "core" and "bonus" opportunities to earn points in this course.
-
-| **Summative Evaluations**                                                 | **XP** | **bonus XP** |
-|---------------------------------------------------------------------------|--------|--------------|
-| ***Assignments***                                                         |        |              |
-| Assignment 1                                                              | 1000   |              |
-| Assignments 2-5, 3 best marks @ 1500                                      | 4500   |              |
-| (must turn in all assignments for worst grade to be dropped)              |        |              |
-| ***Projects***                                                            |        |              |
-| Project 1                                                                 | 1500   |              |
-| Project 2                                                                 | 1500   |              |
-| ***Demos***                                                               |        |              |
-| Demos, 2 @ 500                                                            | 1000   |              |
-| ***Portfolio***                                                           |        |              |
-| Portfolio (optional; [rubric](rubrics#portfolio-final-submission-rubric)) |        | 200          |
-| **Formative Assessments**                                                 |        |              |
-| ***Peer Assessments***                                                    |        |              |
-| Project 1 peer assessment                                                 | 100    |              |
-| Project 2 peer assessment                                                 | 100    |              |
-| ***Self-Assessments***                                                    |        |              |
-| Self-assessments 6 @ 50                                                   | 300    |              |
-| ***Meet 'n Greets***                                                      |        |              |
-| Meet 'n Greets - 5 @ 20                                                   |        | 100          |
-| **Totals**                                                                | 10000  | 300          |
+| **Evaluations**                    | **%** |
+|------------------------------------|-------|
+| ***Assignments***                  |       |
+| Assignment 1                       | 2.0   |
+| Assignments 2-5, 3 best marks @ 15 | 45.0  |
+| ***Projects***                     |       |
+| *Project 1*                        |       |
+| Written submission                 | 12.0  |
+| Class Presentation                 | 12.0  |
+| *Project 2*                        |       |
+| Written submission                 | 12.0  |
+| Class Presentation                 | 12.0  |
+| ***Quiz***                         |       |
+| Quiz 1                             | 2.0   |
+| ***Peer Assessments***             |       |
+| Project 1 peer assessment          | 1.5   |
+| Project 2 peer assessment          | 1.5   |
+| **Total**                          | 100.0 |
 
 # Schedule
 
@@ -216,7 +182,7 @@ Most of your learning will come from sitting and coding, working through the les
 This course is governed by the academic rules and regulations set forth in the University Calendar and by Senate.
 
 ## Attendance
-Attendance of scheduled class meetings is optional, but scheduled class times are the only time when you can get in-person help with the course material. You can message the TA and instructor outside of this time for help, but response times and availability will be variable.
+Attendance of scheduled class meetings is expected, and scheduled class times are the only time when you can get in-person help with the course material. You can message the TAs and instructor outside of this time for help, but response times and availability will be variable.
 
 ## Academic Freedom
 Freedom of speech and of thought are cornerstones of academic institutions such as Dalhousie. Our goal in science is to observe and characterize the world accurately and objectively. However, we must realize that our perceptions of reality are often coloured by our beliefs and assumptions, some of which we may not be aware of. Academic freedom includes not only the freedom to think as you please, but others’ freedom to express their beliefs as well. Please do not hesitate to express your ideas, but do so in a way that is respectful of others. This is the only avenue for the free expression and exchange of ideas.
