@@ -3,8 +3,8 @@
 *Cross-Listed as PSYO 3505*
 
 ### Fall 2025-26
-Mondays: 14:35 am - 16:25 pm <br>
-September 3 – December 3, 2025 <br>
+Mondays: 14:35 pm - 16:25 pm <br>
+September 2 – December 3, 2025 <br>
 Location: Killam Library 4106
 
 #### version 0.1 2025-08-11
