@@ -31,7 +31,7 @@ Some examples of how this works:
 |**3**  | Basic introduction with minimal explanation of research question or hypotheses.  |
 |**2**  | Introduction is unclear or missing key components.  |
 |**1**  | Introduction is missing most of the key components (e.g., research question and hypotheses)  |
-|**0**  | Introduction is missing or contains irrelevant content|
+|**0**  | Introduction is missing or contains irrelevant content.  |
 
 ### Analysis
 
@@ -41,7 +41,7 @@ Some examples of how this works:
 |**4**  | Good explanation of data cleaning and organization; some rationale provided.  |
 |**3**  | Basic description of process; lacks depth or clarity. |
 |**2**  | Minimal or unclear explanation of data handling. |
-|**1**  | Disorganized explanation of the data cleaning and analysis, does not describe their process  |
+|**1**  | Disorganized explanation of the data cleaning and analysis, does not describe their process.  |
 |**0**  | No explanation of data cleaning or analysis.  |
 
 ### Discussion of Results
@@ -52,8 +52,8 @@ Some examples of how this works:
 |**4**  | Clear discussion of results; some connection to research question and hypotheses.  |
 |**3**  | Basic discussion; limited interpretation or connection to research question.  |
 |**2**  | Results are presented without meaningful discussion or interpretation.  |
-|**1**  | Results are unclear and missing the interpretation of the findings |
-|**0**  | No discussion of the results |
+|**1**  | Results are unclear and missing the interpretation of the findings. |
+|**0**  | No discussion of the results. |
 
 ### Coding Reflection
 
@@ -63,8 +63,8 @@ Some examples of how this works:
 |**4**  | Good reflection; mentions Copilot and challenges with some insights.  |
 |**3**  | Basic reflection; limited discussion of Copilot or challenges.  |
 |**2**  | Reflection is superficial or missing examples.  |
-|**1**  | Minimal reflection is made and/or is unclear |
-|**0**  | No reflection provided |
+|**1**  | Minimal reflection is made and/or is unclear. |
+|**0**  | No reflection provided. |
 
 ### Conclusion
 
@@ -74,8 +74,8 @@ Some examples of how this works:
 |**4**  | Clear summary; touches on main points.  |
 |**3**  | Basic conclusion; may miss some key takeways (e.g., the findings).  |
 |**2**  | Conclusion is unclear and does not summarize the key takeways.  |
-|**1**  | A conclusion is barely made with little attempt to summarize the project  |
-|**0**  | No conclusion is provided  |
+|**1**  | A conclusion is barely made with little attempt to summarize the project.  |
+|**0**  | No conclusion is provided.  |
 
 ### Presentation Skills
 
