@@ -7,8 +7,6 @@ All rubrics are scored on 5-point scales, based on the following grade equivalen
 | --- | --- | --- | --- | --- | --- |
 | F | D | C | B | A | A+ |
 
-Depending on the assessment item, your rubric may be scored by one or more members of the teaching team. In many group settings, each member of the teaching team is assigned a subset of students to grade. In such cases, we rotate which students are graded by which teaching team members, to ensure fairness.
-
 To compute your numerical grade based on rubric scores, we will first calculate the mean score across dimensions, round to one decimal point, and then convert the score to a percentage based on the following conversion table:
 
 | 0.0 | 1.0 | 2.0 | 3.0 | 4.0 | 4.5 | 5.0 |
@@ -21,194 +19,71 @@ Some examples of how this works:
 - your mean is 4.4; your grade is 80% of the available points
 - your mean is 4.9; your grade is 90% of the available points
 
-## Demo Rubric
 
-### Content
+## Project 1 Presentation
 
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Exceptional  |
-|**4**  | Excellent  |
-|**3**  | Very Good  |
-|**2**  | Good  |
-|**1**  | Acceptable  |
-|**0**  | Below Standards  |
-
-### Explanation
+### Introduction
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | Exceptional  |
-|**4**  | Excellent  |
-|**3**  | Very Good  |
-|**2**  | Good  |
-|**1**  | Acceptable  |
-|**0**  | Below Standards  |
+|**5**  | Clearly introduces the experiment, research question, and hypotheses with strong context and relevance.  |
+|**4**  | Introduces the experiment and research question; hypotheses are present but may lack clarity or depth.  |
+|**3**  | Basic introduction with minimal explanation of research question or hypotheses.  |
+|**2**  | Introduction is unclear or missing key components.  |
+|**1**  | Introduction is missing most of the key components (e.g., research question and hypotheses)  |
+|**0**  | Introduction is missing or contains irrelevant content|
 
-## Presentation
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Exceptional  |
-|**4**  | Excellent  |
-|**3**  | Very Good  |
-|**2**  | Good  |
-|**1**  | Acceptable  |
-|**0**  | Below Standards  |
-
-### Relevance/Usefulness
+### Analysis
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | Exceptional  |
-|**4**  | Excellent  |
-|**3**  | Very Good  |
-|**2**  | Good  |
-|**1**  | Acceptable  |
-|**0**  | Below Standards  |
+|**5**  | Thorough explanation of data cleaning and organization process; demonstrates strong understanding and rationale.  |
+|**4**  | Good explanation of data cleaning and organization; some rationale provided.  |
+|**3**  | Basic description of process; lacks depth or clarity. |
+|**2**  | Minimal or unclear explanation of data handling. |
+|**1**  | Disorganized explanation of the data cleaning and analysis, does not describe their process  |
+|**0**  | No explanation of data cleaning or analysis.  |
 
-
-## Portfolio Submission 1 Rubric
-
-One of the outcomes of this class is that you will have an online portfolio demonstrating your work, that you could show to a potential employer or honours/graduate supervisor. Building this will mostly happen in the context of your completing the course work (demos, projects, and assignments). Assembling your portfolio simply means selecting what you feel best represents your work, and putting a bit of "packaging" around it. You will submit a first version midway through the course for feedback, and then a final version at the end of term. Submitting the first version is optional but highly recommended, as we have yet to see a first version that was nearly as good as the revised version after feedback!
-
-Your portfolio should be a publicly-accessible website. Our suggestion is that you use GitHub Pages for this purpose. There are a series of videos on the class [YouTube channel](https://youtube.com/playlist?list=PLtfEWMIgWS22MMZjPIzBRE2cHhMcvEKwp) with how-tos for doing this.
-
-### Quantity
+### Discussion of Results
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | > 3 items  |
-|**4**  | 3 items  |
-|**3**  | 2 items  |
-|**2**  | 1 items  |
-|**1**  | stubs/incomplete items  |
-|**0**  | no items |
+|**5**  | Insightful interpretation of results; connects findings to research question and hypotheses effectively.  |
+|**4**  | Clear discussion of results; some connection to research question and hypotheses.  |
+|**3**  | Basic discussion; limited interpretation or connection to research question.  |
+|**2**  | Results are presented without meaningful discussion or interpretation.  |
+|**1**  | Results are unclear and missing the interpretation of the findings |
+|**0**  | No discussion of the results |
 
-
-### Breadth
-For the purposes of this mark, "course topics" include those covered by the portfolio draft submission date:
-- working with pandas DataFrames
-- visualization
-- EDA
-- single-unit data
-- EEG data
-
-Since you need to submit fewer items than there are topics, simply be sure each item aligns with one of the above topics, and you aren't including two items on the same topic.
-
-A portfolio item doesn't necessarily have use neuroscience or psychology data, if it covers other course topics like visualization or EDA.
+### Coding Reflection
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | Samples of work cover an exceptional range of topics including course topics and beyond  |
-|**4**  | Samples of work are representative of the entire range of topics covered in the course  |
-|**3**  | Samples of work cover at least 75% of course topics  |
-|**2**  | Samples of work cover at least 50% of course topics   |
-|**1**  | Samples of work cover limited range of topics and/or topics not relevant to course topics |
-|**0**  | Samples non-existent or don't cover course topics  |
+|**5**  | Deep reflection on coding experience; thoughtful insights on Copilot-generated code, challenges, and lessons learned.   |
+|**4**  | Good reflection; mentions Copilot and challenges with some insights.  |
+|**3**  | Basic reflection; limited discussion of Copilot or challenges.  |
+|**2**  | Reflection is superficial or missing examples.  |
+|**1**  | Minimal reflection is made and/or is unclear |
+|**0**  | No reflection provided |
 
-### Content
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Work demonstrates ways you have gone above and beyond course requirements  |
-|**4**  | Work demonstrates meeting all requirements of the topic demonstrated  |
-|**3**  | Work demonstrates meeting most requirements of the work demonstrated  |
-|**2**  | Work demonstrates meeting some of topic requiresments  |
-|**1**  | Work demonstrates meeting few of topic requirements  |
-|**0**  |Work doesn't meet topic requirements, has many errors |
-
-### Presentation Quality
+### Conclusion
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | Exceptional attention to detail and visual presentation quality  |
-|**4**  | Excellent attention to detail and visual presentation quality  |
-|**3**  | Very good attention to detail and visual presentation quality |
-|**2**  | Adequate attention to detail and visual presentation quality  |
-|**1**  | Passible attention to detail and visual presentation quality  |
-|**0**  | Passible attention to detail and visual presentation quality  |
+|**5**  | Strong summary that ties together all sections; reinforces key takeaways and implications.  |
+|**4**  | Clear summary; touches on main points.  |
+|**3**  | Basic conclusion; may miss some key takeways (e.g., the findings).  |
+|**2**  | Conclusion is unclear and does not summarize the key takeways.  |
+|**1**  | A conclusion is barely made with little attempt to summarize the project  |
+|**0**  | No conclusion is provided  |
 
-### Organization
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Work is presented in an exceptionally clear and intuitively-organized manner, and is not overwhelming or hard to process  |
-|**4**  | Work is presented in a very clear and intuitively-organized manner, and is not overwhelming or hard to process  |
-|**3**  | Work is presented in an reasonably clear and intuitively-organized manner; some aspects may be hard to follow  |
-|**2**  | Work is occasionally presented in a clear and intuitively-organized manner but much is hard to follow  |
-|**1**  | Work is poorly organized and hard to follow  |
-|**0**  | Work is disorganized and makes it unlikely that a viewer would want to hire you |
-
-
-
-## Portfolio Final Submission Rubric
-These are essentially the same as for the draft submission, except in terms of the quantity and breadth criteria.
-
-### Quantity
+### Presentation Skills
 
 | Score | Criteria |
 |:---:  |---    |
-|**5**  | ≥ 5 items  |
-|**4**  | 4 items  |
-|**3**  | 3 items  |
-|**2**  | 2 items  |
-|**1**  | 1 items  |
-|**0**  | 0 items |
-
-
-### Breadth
-For the purposes of this mark, "course topics" include the following:
-- working with pandas DataFrames
-- visualization
-- EDA
-- single-unit data
-- EEG data
-- neuroimaging data
-- machine learning
-
-Since you need to submit fewer items than there are topics, simply be sure each item aligns with one of the above topics, and you aren't including two items on the same topic.
-
-A portfolio item doesn't necessarily have use neuroscience or psychology data, if it covers other course topics like visualization or EDA.
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Samples of work cover an exceptional range of topics including course topics and beyond  |
-|**4**  | Samples of work are representative of the entire range of topics covered in  the course  |
-|**3**  | Samples of work cover at least 75% of course topics  |
-|**2**  | Samples of work cover at least 50% of course topics   |
-|**1**  | Samples of work cover limited range of topics and/or topics not relevant to course topics |
-|**0**  | Samples non-existent or don't cover course topics  |
-
-### Content
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Work demonstrates ways you have gone above and beyond course requirements  |
-|**4**  | Work demonstrates meeting all requirements of the topic demonstrated  |
-|**3**  | Work demonstrates meeting most requirements of the work demonstrated  |
-|**2**  | Work demonstrates meeting some of topic requiresments  |
-|**1**  | Work demonstrates meeting few of topic requirements  |
-|**0**  |Work doesn't meet topic requirements, has many errors |
-
-### Presentation Quality
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Exceptional attention to detail and visual presentation quality  |
-|**4**  | Excellent attention to detail and visual presentation quality  |
-|**3**  | Very good attention to detail and visual presentation quality |
-|**2**  | Adequate attention to detail and visual presentation quality  |
-|**1**  | Passible attention to detail and visual presentation quality  |
-|**0**  | Passible attention to detail and visual presentation quality  |
-
-### Organization
-
-| Score | Criteria |
-|:---:  |---    |
-|**5**  | Work is presented in an exceptionally clear and intuitively-organized manner, and is not overwhelming or hard to process  |
-|**4**  | Work is presented in a very clear and intuitively-organized manner, and is not overwhelming or hard to process  |
-|**3**  | Work is presented in an reasonably clear and intuitively-organized manner; some aspects may be hard to follow  |
-|**2**  | Work is occasionally presented in a clear and intuitively-organized manner but much is hard to follow  |
-|**1**  | Work is poorly organized and hard to follow  |
-|**0**  | Work is disorganized and makes it unlikely that a viewer would want to hire you |
+|**5**  | Clear, engaging delivery; excellent pacing, and visuals.  |
+|**4**  | Good delivery; mostly clear and engaging with appropriate visuals.  |
+|**3**  | Adequate delivery; some issues with clarity or engagement.  |
+|**2**  | Poor delivery; difficult to follow and/or lacking visuals.  |
+|**1**  | Little effort in presentation and/or is often unclear.  |
+|**0**  | No effort in presentation and/or completely unclear.  |
