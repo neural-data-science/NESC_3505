@@ -20,7 +20,7 @@ Some examples of how this works:
 - your mean is 4.9; your grade is 90% of the available points
 
 
-## Project 1 Presentation
+## Project 2 Presentation
 
 ### Introduction
 
